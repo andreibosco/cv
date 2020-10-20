@@ -2,7 +2,7 @@
 
 _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into the world_
 
-[Email](mailto:hi@andreitorres.tech) / [Website](https://andreitorres.tech) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / [Twitter](https://twitter.com/andreibosco/)
+[Email](mailto:hi@andreitorres.tech) / [Website](https://andreitorres.tech) / [ResearchGate](https://www.researchgate.net/profile/Andrei_Torres) / [Google Scholar](https://scholar.google.com.br/citations?user=xQ74CokAAAAJ) / [ORCID](https://orcid.org/0000-0003-2334-1919) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / [Twitter](https://twitter.com/andreibosco/)
 
 ## 💻 Professional Experience
 
