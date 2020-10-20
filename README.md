@@ -53,7 +53,17 @@ Architecture internship. Description TBD.
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
   - **Dissertation:** Modular Architecture
 
-##  Languages
+## 🏆 Grants, honors & awards
+**Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
+_$20,000_ - Dubrowski A, Kapralos B, Mutombo P, **Torres A.**<br>
+Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities.
+
+**Ontario Trillium Scholarship (OTS)** @ Government of Ontario _(Aug 2018 - Aug 2022)_<br>
+_$40,066 yearly_ - **Torres A. B. B.**<br>
+The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
+
+## 💬 Languages
 **Portuguese**: Native<br>
 **English**: CLB 9+
 <br><br>
+
