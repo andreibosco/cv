@@ -52,6 +52,7 @@ Courses:
   - Digital Animation Techniques I
   - Motion Graphics
   - Programming for Mobile Devices (Swift for iOS)
+
 <br>
 <br>
 ## 🏫 Scholarly and Professional Academic Activities
