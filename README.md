@@ -53,7 +53,7 @@ Architecture internship. Description TBD.
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
   - **Dissertation:** Modular Architecture
 
-## Languages
+##  Languages
 **Portuguese**: Native<br>
 **English**: CLB 9+
 <br><br>
