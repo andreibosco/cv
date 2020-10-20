@@ -4,7 +4,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 [Email](mailto:hi@andreitorres.tech) / [Website](https://andreitorres.tech) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / [Twitter](https://twitter.com/andreibosco/)
 
-## Professional Experience
+## 💻 Professional Experience
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
 Organize and run laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
@@ -38,7 +38,7 @@ Description TBD.
 Architecture internship. Description TBD.
 <br><br>
 
-## Education
+## 🎓 Education
 
 **PhD Student** in Computer Science<br>
 [OntarioTech University](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) - Oshawa, Ontario, Canada _(Aug 2018 - Aug 2022)_<br>
@@ -51,4 +51,4 @@ Architecture internship. Description TBD.
  
 **Bachelor in Architecture** in Architecture and Urbanism<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
-  - **Dissertation:** _Modular Architecture_
+  - **Dissertation:** Modular Architecture
