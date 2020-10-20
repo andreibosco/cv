@@ -152,3 +152,8 @@ Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A
 Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.**, et al. (2013). extmobilistts: [Uma arquitetura de aplicação móvel para suporte a fóruns usando text-to-speech em ambientes virtuais de aprendizagem](http://sbrc2013.unb.br/files/anais/anais_sbrc2013.pdf). In _Anais do XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)_ (pp 1068-1075). SBC.
 
 Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC.
+
+### Abstracts
+_(to be presented)_ Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
+
+**Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21-22. 
