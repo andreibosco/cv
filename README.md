@@ -67,3 +67,15 @@ The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario
 **English**: CLB 9+
 <br><br>
 
+## 👨‍💻 Volunteer Work
+**Project coordinator and programming lecturer** @ App Run - Android App Marathon _(2015)_<br>
+Description TBD.
+<br><br>
+
+**Workshop lecturer and organizer** @ Mediaweek Event _(2015)_<br>
+Introduction to Unity 3D Workshop. Description TBD.
+<br><br>
+
+**Translator** @ Mandrake Linux _(2000 - 2003)_<br>
+First brazilian portuguese translator. Worked on the initial versions of the graphical installer and system configuration tools.
+<br><br>
