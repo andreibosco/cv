@@ -39,6 +39,7 @@ Architecture internship. Description TBD.
 <br><br>
 
 ## 👨‍🏫 Academic Experience
+
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
 Courses:
   - Modelling & Animation System II
@@ -57,6 +58,14 @@ Courses:
   - Digital Animation Techniques I
   - Motion Graphics
   - Programming for Mobile Devices (Swift for iOS)
+
+## 🏫 Scholarly and Professional Academic Activities
+
+**Information Technology Chair** @ [DiSIMinate 2 Build - maxSIMhealth](https://maxsimhealth.com/disiminate2build-1) _(2020 - Present)_ <br>
+Member of the Steering Comittee. Description TBD.
+
+**Deputy Editor** @ [Cureus - Annals of Simulation - maxSIMhealth](https://www.cureus.com/channels/simulation-archives}{https://www.cureus.com/channels/simulation-archives) _(2019 - Present)_<br>
+Description TBD.
 
 ## 🎓 Education
 
