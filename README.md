@@ -4,7 +4,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 [Email](mailto:hi@andreitorres.tech) / [Website](https://andreitorres.tech) / [ResearchGate](https://www.researchgate.net/profile/Andrei_Torres) / [Google Scholar](https://scholar.google.com.br/citations?user=xQ74CokAAAAJ) / [ORCID](https://orcid.org/0000-0003-2334-1919) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / [Twitter](https://twitter.com/andreibosco/)
 
-## 💻 Professional Experience
+## 👷‍♂️ Professional Experience
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
 Organize and run laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
@@ -38,7 +38,7 @@ Description TBD.
 Architecture internship. Description TBD.
 <br><br>
 
-## Academic Experience
+## 👨‍🏫 Academic Experience
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
 Courses:
   - Modelling & Animation System II
@@ -74,6 +74,7 @@ Courses:
   - **Dissertation:** Modular Architecture
 
 ## 🏆 Grants, honors & awards
+
 **Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
 _$20,000_ - Dubrowski A, Kapralos B, Mutombo P, **Torres A.**<br>
 Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities.
@@ -83,11 +84,13 @@ _$40,066 yearly_ - **Torres A. B. B.**<br>
 The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
 
 ## 💬 Languages
+
 **Portuguese**: Native<br>
 **English**: CLB 9+
 <br><br>
 
 ## 👨‍💻 Volunteer Work
+
 **Project coordinator and programming lecturer** @ App Run - Android App Marathon _(2015)_<br>
 Description TBD.
 <br><br>
@@ -99,3 +102,14 @@ Introduction to Unity 3D Workshop. Description TBD.
 **Translator** @ Mandrake Linux _(2000 - 2003)_<br>
 First brazilian portuguese translator. Worked on the initial versions of the graphical installer and system configuration tools.
 <br><br>
+
+## 💻 Technical Skills
+
+- Web Development: Vue.js, Django, HTML5, CSS3
+- 3D Software: Blender, Modo, Maya, 3DStudio
+- Scientific computing: Python, Matlab
+- Scripting languages: Python, JavaScript, Shell Script
+- 3D Engines: Unity, Unreal
+- Video Editing/Compositing: After Effects, Nuke, Fusion
+- Revision control: Git, Subversion
+- Digital Typesetting: LaTeX
