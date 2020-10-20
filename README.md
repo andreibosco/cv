@@ -8,22 +8,26 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 ## 👷‍♂️ Professional Experience
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
-Organize and run laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
+Responsible for laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
 
 **Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
-Description TBD.
+Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, specifically in the fields of digital animation and 3D.
 
-**Internship** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
-Internship part of the Collaborative Learning of Usability Experiences (CLUE) program. Research and Development. Description TBD.
+**Intern** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
+(Internship part of the Collaborative Learning of Usability Experiences (CLUE) program.)<br>
+Explored immersive visualization in virtual and augmented reality based on retail data and created a proof-of-concept application for the Oculus Quest.
 
-**Internship** @ [Public Services Health and Safety Association (PSHSA)](https://www.pshsa.ca/) _(Jan 2019 - Aug 2019)_ <br>
-Internship part of the Collaborative Learning of Usability Experiences (CLUE) program. Research and Development. Description TBD.
+**Intern** @ [Public Services Health and Safety Association (PSHSA)](https://www.pshsa.ca/) _(Jan 2019 - Aug 2019)_ <br>
+(Internship part of the Collaborative Learning of Usability Experiences (CLUE) program.)<br>
+Worked on a project to create a virtual reality application to be used as part of the working-at-heights training program. 
 
 **Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
-Accessibility and New Web Technologies Researcher. Description TBD.
+- Design, implement and create the specs for Solar 2 UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
+- Create the UI design of various mobile apps for Android and iOS
+- Create and maintain UI tests for Solar 2
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
-Accessibility and New Web Technologies Researcher. Description TBD.
+Research and implementation of 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing objects, scenarios, materials, and improving the network render structure.
 
 **Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
 Description TBD.
