@@ -22,56 +22,33 @@ Internship part of the Collaborative Learning of Usability Experiences (CLUE) pr
 Internship part of the Collaborative Learning of Usability Experiences (CLUE) program. Research and Development. Description TBD.
 <br><br>
 
-**Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Jan 2011 - Jan 2015)_ <br>
+**Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
 Accessibility and New Web Technologies Researcher. Description TBD.
 <br><br>
 
-**CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Jul 2012)_ <br>
+**CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
 Accessibility and New Web Technologies Researcher. Description TBD.
 <br><br>
 
-**Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2005 - Jan 2011)_ <br>
+**Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
 Description TBD.
 <br><br>
 
-**Intern** @ André Grieser Architecture and Acoustic Consulting _(Jan 2008 - Jul 2008)_ <br>
+**Intern** @ André Grieser Architecture and Acoustic Consulting _(2008 - 2008)_ <br>
 Architecture internship. Description TBD.
 <br><br>
 
---
+## Education
 
-You can use the [editor on GitHub](https://github.com/andreibosco/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**PhD Student** in Computer Science<br>
+[OntarioTech University](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) - Oshawa, Ontario, Canada _(Aug 2018 - Aug 2022)_<br>
+  - **Research Topics:** Virtual and Augmented Reality, Serious Games, Gamification
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreibosco/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Master of Engineering** in Teleinformatics Engineering<br>
+[Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Feb 2015 - Jul 2017)_<br>
+  - **Field:** Signals and Systems
+  - **Dissertation:** Multilevel Data Fusion for Internet of Things in Precision Agriculture
+ 
+**Bachelor in Architecture** in Architecture and Urbanism<br>
+[Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
+  - **Dissertation:** _Modular Architecture_
