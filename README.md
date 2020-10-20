@@ -51,9 +51,8 @@ Courses:
   - Three-dimensional Modelling Tools I
   - Digital Animation Techniques I
   - Motion Graphics
-  - Programming for Mobile Devices (Swift for iOS)
+  - Programming for Mobile Devices (Swift for iOS)<br>
 
-<br>
 ## 🏫 Scholarly and Professional Academic Activities
 
 **Information Technology Chair** @ [DiSIMinate 2 Build - maxSIMhealth](https://maxsimhealth.com/disiminate2build-1) _(2020 - Present)_ <br>
@@ -76,9 +75,8 @@ Description TBD.
  
 **Bachelor in Architecture** in Architecture and Urbanism<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
-  - **Dissertation:** Modular Architecture
+  - **Dissertation:** Modular Architecture<br>
 
-<br>
 ## 🏆 Grants, honors & awards
 
 **Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
