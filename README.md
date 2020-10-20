@@ -154,3 +154,20 @@ Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, Octo
 _(to be presented)_ Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
 
 **Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21-22. 
+
+## ⚛ Research Projects
+**Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
+Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
+
+**GEN: Gamified Educational Network** _(2018 - Current)_<br>
+Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
+
+**SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
+Description TBD.
+
+**Virtual Shooting Training System** _(2010 - 2011)_<br>
+Description TBD.
+
+**Use of Mediatic Languages in Distance Learning Courses** _(2007 - 2009)_<br>
+Description TBD.
+
