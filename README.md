@@ -122,3 +122,11 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 Ferreira, C. M., Peixoto, M. J., Duarte, P. A., **Torres, A. B.**, Júnior, M. L. S., Rocha, L. S., & Viana, W. (2018). [An evaluation of cross-platform frameworks for multimedia mobile applications development](https://ieeexplore.ieee.org/abstract/document/8362158). _IEEE Latin America Transactions_, 16(4), 1206-1212.
 
 Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de Souza, J. N. (2016). [Management of multiple applications for shared sensor and actuators networks](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, 14(10), 4358-4366.
+
+
+### Book Chapters
+_(in press)_ **Torres, Andrei** & maxSIMhealth Group (to appear). An interconnected collective of manufacturing, design, and simulation labs to advance medical simulation training. In A. L. Brooks, S. Branham, B. Kapralos, A. Nakajima, J. Tyerman, and l. Jain (Eds.). _Recent Advances in Technologies for Inclusive Well-Being: Virtual Patients, Gamification and Simulation_. Springer-Verlag, Intelligent Systems Reference Library, Germany.
+
+Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Básicos e o Estado da Arte](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_ (pp. 61-87), 1 ed. Campinas, São Paulo: Pontes Editores.
+
+Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). Internet of Things: Architecture, Technologies and Applications. In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
