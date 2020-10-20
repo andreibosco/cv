@@ -3,7 +3,8 @@
 _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into the world_
 
 [Email](mailto:hi@andreitorres.tech) / [Website](https://andreitorres.tech) / [ResearchGate](https://www.researchgate.net/profile/Andrei_Torres) / [Google Scholar](https://scholar.google.com.br/citations?user=xQ74CokAAAAJ) / [ORCID](https://orcid.org/0000-0003-2334-1919) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / [Twitter](https://twitter.com/andreibosco/)
-
+<br>
+<br>
 ## 👷‍♂️ Professional Experience
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
@@ -29,7 +30,8 @@ Description TBD.
 
 **Intern** @ André Grieser Architecture and Acoustic Consulting _(2008 - 2008)_ <br>
 Architecture internship. Description TBD.
-
+<br>
+<br>
 ## 👨‍🏫 Academic Experience
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
@@ -50,7 +52,8 @@ Courses:
   - Digital Animation Techniques I
   - Motion Graphics
   - Programming for Mobile Devices (Swift for iOS)
-
+<br>
+<br>
 ## 🏫 Scholarly and Professional Academic Activities
 
 **Information Technology Chair** @ [DiSIMinate 2 Build - maxSIMhealth](https://maxsimhealth.com/disiminate2build-1) _(2020 - Present)_ <br>
@@ -58,7 +61,8 @@ Member of the Steering Comittee. Description TBD.
 
 **Deputy Editor** @ [Cureus - Annals of Simulation - maxSIMhealth](https://www.cureus.com/channels/simulation-archives}{https://www.cureus.com/channels/simulation-archives) _(2019 - Present)_<br>
 Description TBD.
-
+<br>
+<br>
 ## 🎓 Education
 
 **PhD Student** in Computer Science<br>
@@ -73,7 +77,8 @@ Description TBD.
 **Bachelor in Architecture** in Architecture and Urbanism<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
   - **Dissertation:** Modular Architecture
-
+<br>
+<br>
 ## 🏆 Grants, honors & awards
 
 **Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
@@ -83,12 +88,14 @@ Using an innovative tool to teach and test cultural competencies to enhance age�
 **Ontario Trillium Scholarship (OTS)** @ Government of Ontario _(Aug 2018 - Aug 2022)_<br>
 _$40,066 yearly_ - **Torres A. B. B.**<br>
 The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
-
+<br>
+<br>
 ## 💬 Languages
 
 **Portuguese**: Native<br>
 **English**: CLB 9+
-
+<br>
+<br>
 ## 👨‍💻 Volunteer Work
 
 **Project coordinator and programming lecturer** @ App Run - Android App Marathon _(2015)_<br>
@@ -99,7 +106,8 @@ Introduction to Unity 3D Workshop. Description TBD.
 
 **Translator** @ Mandrake Linux _(2000 - 2003)_<br>
 First brazilian portuguese translator. Worked on the initial versions of the graphical installer and system configuration tools.
-
+<br>
+<br>
 ## 💻 Technical Skills
 
 **Web Development**: Vue.js, Django, HTML5, CSS3<br>
@@ -110,7 +118,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 **Revision control**: Git, Subversion<br>
 **Digital Typesetting**: LaTeX<br>
 **Video Editing/Compositing**: After Effects, Nuke, Fusion<br>
-
+<br>
+<br>
 ## 📜 Publications & Talks
 
 ### Journal Articles
@@ -154,7 +163,8 @@ Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, Octo
 _(to be presented)_ Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
 
 **Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21-22. 
-
+<br>
+<br>
 ## ⚛ Research Projects
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
