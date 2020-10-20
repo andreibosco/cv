@@ -105,11 +105,11 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ## 💻 Technical Skills
 
-- Web Development: Vue.js, Django, HTML5, CSS3
-- 3D Software: Blender, Modo, Maya, 3DStudio
-- Scientific computing: Python, Matlab
-- Scripting languages: Python, JavaScript, Shell Script
-- 3D Engines: Unity, Unreal
-- Video Editing/Compositing: After Effects, Nuke, Fusion
-- Revision control: Git, Subversion
-- Digital Typesetting: LaTeX
+**Web Development**: Vue.js, Django, HTML5, CSS3<br>
+**3D Software**: Blender, Modo, Maya, 3DStudio<br>
+**3D Engines**: Unity, Unreal<br>
+**Scientific computing**: Python, Matlab<br>
+**Scripting languages**: Python, JavaScript, Shell Script<br>
+**Revision control**: Git, Subversion<br>
+**Digital Typesetting**: LaTeX<br>
+**Video Editing/Compositing**: After Effects, Nuke, Fusion<br>
