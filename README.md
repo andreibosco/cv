@@ -10,7 +10,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 Organize and run laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
 <br><br>
 
-**Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
+**Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
 Description TBD.
 <br><br>
 
@@ -37,6 +37,26 @@ Description TBD.
 **Intern** @ André Grieser Architecture and Acoustic Consulting _(2008 - 2008)_ <br>
 Architecture internship. Description TBD.
 <br><br>
+
+## Academic Experience
+**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
+Courses:
+  - Modelling & Animation System II
+  - Computer Architecture
+  - Game Design Workshop II
+  - Cinematic Systems Design
+  - Game Design Workshop III
+  - Industrial Design for Game Hardware
+  
+**Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
+Courses:
+  - Visual Communication I
+  - Visual Communication II
+  - History of Design
+  - Three-dimensional Modelling Tools I
+  - Digital Animation Techniques I
+  - Motion Graphics
+  - Programming for Mobile Devices (Swift for iOS)
 
 ## 🎓 Education
 
