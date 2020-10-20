@@ -8,35 +8,27 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
 Organize and run laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
-<br><br>
 
 **Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
 Description TBD.
-<br><br>
 
 **Internship** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
 Internship part of the Collaborative Learning of Usability Experiences (CLUE) program. Research and Development. Description TBD.
-<br><br>
 
 **Internship** @ [Public Services Health and Safety Association (PSHSA)](https://www.pshsa.ca/) _(Jan 2019 - Aug 2019)_ <br>
 Internship part of the Collaborative Learning of Usability Experiences (CLUE) program. Research and Development. Description TBD.
-<br><br>
 
 **Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
 Accessibility and New Web Technologies Researcher. Description TBD.
-<br><br>
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
 Accessibility and New Web Technologies Researcher. Description TBD.
-<br><br>
 
 **Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
 Description TBD.
-<br><br>
 
 **Intern** @ André Grieser Architecture and Acoustic Consulting _(2008 - 2008)_ <br>
 Architecture internship. Description TBD.
-<br><br>
 
 ## 👨‍🏫 Academic Experience
 
@@ -96,21 +88,17 @@ The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario
 
 **Portuguese**: Native<br>
 **English**: CLB 9+
-<br><br>
 
 ## 👨‍💻 Volunteer Work
 
 **Project coordinator and programming lecturer** @ App Run - Android App Marathon _(2015)_<br>
 Description TBD.
-<br><br>
 
 **Workshop lecturer and organizer** @ Mediaweek Event _(2015)_<br>
 Introduction to Unity 3D Workshop. Description TBD.
-<br><br>
 
 **Translator** @ Mandrake Linux _(2000 - 2003)_<br>
 First brazilian portuguese translator. Worked on the initial versions of the graphical installer and system configuration tools.
-<br><br>
 
 ## 💻 Technical Skills
 
