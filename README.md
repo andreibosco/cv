@@ -113,3 +113,12 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 **Revision control**: Git, Subversion<br>
 **Digital Typesetting**: LaTeX<br>
 **Video Editing/Compositing**: After Effects, Nuke, Fusion<br>
+
+## 📜 Publications & Talks
+
+### Journal Articles
+**Torres, A. B.**, da Rocha, A. R., da Silva, T. L. C., de Souza, J. N., & Gondim, R. S. (2020). [Multilevel data fusion for the internet of things in smart agriculture](https://www.sciencedirect.com/science/article/pii/S0168169919322999). _Computers and Electronics in Agriculture_, 171, 105309.
+
+Ferreira, C. M., Peixoto, M. J., Duarte, P. A., **Torres, A. B.**, Júnior, M. L. S., Rocha, L. S., & Viana, W. (2018). [An evaluation of cross-platform frameworks for multimedia mobile applications development](https://ieeexplore.ieee.org/abstract/document/8362158). _IEEE Latin America Transactions_, 16(4), 1206-1212.
+
+Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de Souza, J. N. (2016). [Management of multiple applications for shared sensor and actuators networks](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, 14(10), 4358-4366.
