@@ -123,10 +123,32 @@ Ferreira, C. M., Peixoto, M. J., Duarte, P. A., **Torres, A. B.**, Júnior, M. L
 
 Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de Souza, J. N. (2016). [Management of multiple applications for shared sensor and actuators networks](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, 14(10), 4358-4366.
 
-
 ### Book Chapters
 _(in press)_ **Torres, Andrei** & maxSIMhealth Group (to appear). An interconnected collective of manufacturing, design, and simulation labs to advance medical simulation training. In A. L. Brooks, S. Branham, B. Kapralos, A. Nakajima, J. Tyerman, and l. Jain (Eds.). _Recent Advances in Technologies for Inclusive Well-Being: Virtual Patients, Gamification and Simulation_. Springer-Verlag, Intelligent Systems Reference Library, Germany.
 
 Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Básicos e o Estado da Arte](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_ (pp. 61-87), 1 ed. Campinas, São Paulo: Pontes Editores.
 
 Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). Internet of Things: Architecture, Technologies and Applications. In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
+
+### Conference Papers
+**Torres, A.**, Carmichael, C., Wang, W., Paraskevakos, M., Uribe-Quevedo, A., Giles, P., & Yawney, J. L. (2020, August). [A 360 Video Editor Framework for Interactive Training](https://doi.org/10.1109/SeGAH49190.2020.9201707). In _2020 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_ (pp. 1-7). IEEE.
+
+Cruz, S. V., de Castro Quintino, G., **Torres, A. B.**, & Viana, W. (2019, October). [Providing Sense of Embodiment with Mobile Virtual Reality Devices: A Case Study using the" Lamp-Head's Laboratory" Animation](http://doi.org/10.1109/SVR.2019.00017). In _2019 21st Symposium on Virtual and Augmented Reality (SVR)_ (pp. 1-9). IEEE.
+
+**Torres, A. B.**, Kapralos, B., Uribe-Quevedo, A., Quero, E. Z., & Dubrowski, A. (2019, October). [A gamified educational network for collaborative learning](https://doi.org/10.1007/978-3-030-49932-7_26). In _Interactive Mobile Communication, Technologies and Learning_ (pp. 266-275). Springer, Cham.
+
+Wilcocks, K., **Torres, A. B.**, Uribe-Quevedo, A., Kapralos, B., Hunt, S., Slade, K., & Cullen, G. (2019, June). [Development of a Virtual Reality-Based Working at Heights Safety Awareness Framework](http://doi.org/10.1109/ISCE.2019.8901011). In _2019 IEEE 23rd International Symposium on Consumer Technologies (ISCT)_ (pp. 103-104). IEEE.
+
+**Torres, A. B.**, Adriano Filho, J., da Rocha, A. R., Gondim, R. S., & de Souza, J. N. (2017, July). [Outlier detection methods and sensor data fusion for precision agriculture](https://doi.org/10.5753/sbcup.2017.3316). In _Anais do IX Simpósio Brasileiro de Computação Ubíqua e Pervasiva_. SBC.
+
+**Torres, A. B.**, Rocha, A. R., & de Souza, J. N. (2016, July). [Análise de desempenho de brokers mqtt em sistema de baixo custo](https://doi.org/10.5753/wperformance.2016.9727). In _Anais do XV Workshop em Desempenho de Sistemas Computacionais e de Comunicação_ (pp. 47-58). SBC.
+
+Pequeno Filho, P. D. T. C., Sarmento, W. W. F., **Torres, A. B. B.**, Soares, J. M., Barroso, G. C., & Paillard, G. A. (2016, April). [u-LabPA: A framework based on ubiquitous computing for laboratory activities](https://doi.org/10.1109/EATIS.2016.7520146). In _2016 8th Euro American Conference on Telematics and Information Systems (EATIS)_ (pp. 1-5). IEEE.
+
+Peixoto, M. J. P., **Torres, A. B.**, Sarmento, W. W., Freire, R. S., & Pequeno, H. S. L. (2014, September). [Mathpost: A Integração de uma Ferramenta Gráfica Utilizando LaTeX para Discussões em Webforum](http://www.abenge.org.br/cobenge/arquivos/5/Artigos/130415.pdf). In _Congresso Brasileiro de Educação em Engenharia (COBENGE)_. ABENGE.
+
+Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A., de Araujo Gurgel, D. A., Pequeno, L. C., & Sarmento, W. W. (20140). [Utilização de robótica livre com dispositivos móveisno ensino de lógica de programação para alunos do Ensino Fundamental](http://www.tise.cl/volumen10/TISE2014/tise2014_submission_222.pdf). In _XIX Conferência Internacional sobre Informática na Educação (TISE)_. SBC.
+
+Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.**, et al. (2013). extmobilistts: [Uma arquitetura de aplicação móvel para suporte a fóruns usando text-to-speech em ambientes virtuais de aprendizagem](http://sbrc2013.unb.br/files/anais/anais_sbrc2013.pdf). In _Anais do XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)_ (pp 1068-1075). SBC.
+
+Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC.
