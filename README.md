@@ -67,10 +67,9 @@ Courses:
 ## 🏫 Scholarly and Professional Academic Activities
 
 **Information Technology Chair** @ [DiSIMinate 2 Build - maxSIMhealth](https://maxsimhealth.com/disiminate2build-1) _(2020 - Present)_ <br>
-Member of the Steering Comittee. Description TBD.
+Member of the Steering Comittee.
 
 **Deputy Editor** @ [Cureus - Annals of Simulation - maxSIMhealth](https://www.cureus.com/channels/simulation-archives}{https://www.cureus.com/channels/simulation-archives) _(2019 - Present)_<br>
-Description TBD.
 <br>
 <br>
 ## 🎓 Education
