@@ -171,17 +171,20 @@ _(to be presented)_ Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torr
 <br>
 ## ⚛ Research Projects
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
+_My PhD research is part of this project_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
 
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
+_My PhD research is part of this project_<br>
 Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
-Description TBD.
+_My master's research was part of this project_<br>
+Researcher and developer of software and hardware. Worked in implementing data fusion algorithms in a sensor network based on low-end hardware.
 
 **Virtual Shooting Training System** _(2010 - 2011)_<br>
-Description TBD.
+Director of 3D environments and models.
 
 **Use of Mediatic Languages in Distance Learning Courses** _(2007 - 2009)_<br>
-Description TBD.
+Researcher of new technologies to improve distance learning.
 
