@@ -164,7 +164,9 @@ Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, Octo
 ### Abstracts
 _(to be presented)_ Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
 
-**Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21-22. 
+_(to be presented)_ Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torres, A.**, Dhane, M., Misheva, B., Dubrowski, A., Mercier, F., Patocskai, E. (2020). A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial. To be presented at: _Canadian Conference for the Advancement of Surgical Education (C-CASE) 2020_, October 29th-30th.
+
+**Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21st-22nd. 
 <br>
 <br>
 ## ⚛ Research Projects
