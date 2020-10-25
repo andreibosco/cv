@@ -14,26 +14,33 @@ Responsible for laboratory and tutorial sessions for undergrad courses in the [G
 Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, specifically in the fields of digital animation and 3D.
 
 **Intern** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
-(Internship part of the Collaborative Learning of Usability Experiences (CLUE) program.)<br>
+_Internship part of the Collaborative Learning of Usability Experiences (CLUE) program_<br>
 Explored immersive visualization in virtual and augmented reality based on retail data and created a proof-of-concept application for the Oculus Quest.
 
 **Intern** @ [Public Services Health and Safety Association (PSHSA)](https://www.pshsa.ca/) _(Jan 2019 - Aug 2019)_ <br>
-(Internship part of the Collaborative Learning of Usability Experiences (CLUE) program.)<br>
+_Internship part of the Collaborative Learning of Usability Experiences (CLUE) program_<br>
 Worked on a project to create a virtual reality application to be used as part of the working-at-heights training program. 
 
 **Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
-- Design, implement and create the specs for Solar 2 UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
-- Create the UI design of various mobile apps for Android and iOS
-- Create and maintain UI tests for Solar 2
+- Designed, implemented and created the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
+- Created the UI design of various mobile apps for Android and iOS
+- Created and maintain UI tests for Solar 2
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
-Research and implementation of 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing objects, scenarios, materials, and improving the network render structure.
+Researched and implementated 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing objects, scenarios, materials, and improving the network render structure.
 
 **Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
-Description TBD.
+- Developed layouts used by Distance Learning courses
+- Usability and accessibility research
+- Researched and implemented new technologies (e.g., HTML5, augmented reality)
 
-**Intern** @ André Grieser Architecture and Acoustic Consulting _(2008 - 2008)_ <br>
-Architecture internship. Description TBD.
+**Intern** @ André Grieser Architecture and Acoustic Consulting _(Mar 2008 - Aug 2008)_ <br>
+_Architecture internship_
+Assisted in the design of acoustic-related architecture projects for residential and commercial purposes.
+
+**Intern** @ César Fiuza Projetos _(Aug 2007 - Dec 2007)_ <br>
+_Architecture internship_
+Assisted in the design of commercial architecture projects and created 3D renders.
 <br>
 <br>
 ## 👨‍🏫 Academic Experience
