@@ -179,6 +179,7 @@ _(to be presented)_ Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torr
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
 _My PhD research is part of this project_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
+  - [York collaborates on development of virtual educational tool for nursing students](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/)
 
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
 _My PhD research is part of this project_<br>
