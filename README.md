@@ -161,7 +161,7 @@ Pequeno Filho, P. D. T. C., Sarmento, W. W. F., **Torres, A. B. B.**, Soares, J.
 
 Peixoto, M. J. P., **Torres, A. B.**, Sarmento, W. W., Freire, R. S., & Pequeno, H. S. L. (2014, September). [Mathpost: A Integração de uma Ferramenta Gráfica Utilizando LaTeX para Discussões em Webforum](http://www.abenge.org.br/cobenge/arquivos/5/Artigos/130415.pdf). In _Congresso Brasileiro de Educação em Engenharia (COBENGE)_. ABENGE.
 
-Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A., de Araujo Gurgel, D. A., Pequeno, L. C., & Sarmento, W. W. (20140). [Utilização de robótica livre com dispositivos móveisno ensino de lógica de programação para alunos do Ensino Fundamental](http://www.tise.cl/volumen10/TISE2014/tise2014_submission_222.pdf). In _XIX Conferência Internacional sobre Informática na Educação (TISE)_. SBC.
+Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A., de Araujo Gurgel, D. A., Pequeno, L. C., & Sarmento, W. W. (2014). [Utilização de robótica livre com dispositivos móveisno ensino de lógica de programação para alunos do Ensino Fundamental](http://www.tise.cl/volumen10/TISE2014/tise2014_submission_222.pdf). In _XIX Conferência Internacional sobre Informática na Educação (TISE)_. SBC.
 
 Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.**, et al. (2013). extmobilistts: [Uma arquitetura de aplicação móvel para suporte a fóruns usando text-to-speech em ambientes virtuais de aprendizagem](http://sbrc2013.unb.br/files/anais/anais_sbrc2013.pdf). In _Anais do XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)_ (pp 1068-1075). SBC.
 
