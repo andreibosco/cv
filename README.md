@@ -168,13 +168,16 @@ Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.
 Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC.
 
 ### Abstracts
-Dubrowski A, Kapralos B, Patocskai E, **Torres A**, Arutiunian A, Wahab S, Weber T,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. The Learner: Twenty-eighth International Conference on Learning, July 9th-11th, Krakow, Poland.
+Dubrowski, A., Kapralos, B., Patocskai, E., **Torres, A.**, Arutiunian, A., Wahab, S., Weber, T.,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. The Learner: Twenty-eighth International Conference on Learning, July 9th-11th, Krakow, Poland.
 
 Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
 
 Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torres, A.**, Dhane, M., Misheva, B., Dubrowski, A., Mercier, F., Patocskai, E. (2020). A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial. To be presented at: _Canadian Conference for the Advancement of Surgical Education (C-CASE) 2020_, October 29th-30th.
 
 **Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21st-22nd. 
+
+### Editorials
+Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Andrei Torres**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Cureus, March 23, 2021. DOI: 10.7759/cureus.14055.
 <br>
 <br>
 ## ⚛ Research Projects
