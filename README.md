@@ -22,12 +22,12 @@ _Internship part of the Collaborative Learning of Usability Experiences (CLUE) p
 Worked on a project to create a virtual reality application to be used as part of the working-at-heights training program. 
 
 **Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
-- Designed, implemented and created the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
+- Drafted, designed and implemented the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
 - Created the UI design of various mobile apps for Android and iOS
 - Created and maintain UI tests for Solar 2
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
-Researched and implementated 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing objects, scenarios, materials, and improving the network render structure.
+Researched and implemented 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing assets (objects, scenarios, materials) and improving the network render structure.
 
 **Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
 - Developed layouts used by Distance Learning courses
