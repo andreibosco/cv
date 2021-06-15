@@ -168,10 +168,6 @@ Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.
 Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC. DOI: 10.5753/cbie.sbie.2011.%25p
 
 ### Abstracts
-Guérard-Poirier, N., Beniey, M., Meloche-Dumas, L., **Torres, A.**, Kapralos, B., Dhane, M., Mercier, F., Dubrowski, A., Patocskai, E. (2022, January) Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial. In _The 22nd International Meeting on Simulation in Healthcare (IMSH 2021)_. Los Angeles, California, USA. January 15 - 19, 2022. _To be presented._
-
-Guérard-Poirier, N., Beniey, M., Meloche-Dumas, L., **Torres, A.**, Dhane, M., Kapralos, B., Mercier, F., Dubrowski, A., Patocskai, E. (2021, November) Virtual Simulation in Medical Education for the Acquisition of Fundamental Surgical Skills: a Randomized Controlled Trial. In _The Royal College Simulation Summit_. Virtually on November 4rth and 5th 2021. _To be presented._
-
 Dubrowski, A., Kapralos, B., Patocskai, E., **Torres, A.**, Arutiunian, A., Wahab, S., Weber, T.,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. The Learner: Twenty-eighth International Conference on Learning, July 9th-11th, Krakow, Poland.
 
 Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. To be presented at: _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
