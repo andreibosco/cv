@@ -106,7 +106,7 @@ The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario
 <br>
 ## 👨‍💻 Volunteer Work
 
-**Translator** @ Haiku (Operating System) _(2020 - Present)_
+**Translator** @ Haiku (Operating System) _(2020 - Present)_<br>
 Brazilian portuguese translator and language manager.
 
 **Project coordinator and programming lecturer** @ App Run - Android App Marathon _(2015)_<br>
