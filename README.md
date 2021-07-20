@@ -91,6 +91,10 @@ Member of the Steering Comittee.
 
 ## 🏆 Grants, honors & awards
 
+**eCampus Ontario - Virtual Learning Strategy - Content** @ Government of Ontario _(2021 - 2022)_<br>
+_$77,396_ - Da Silva, C., Kapralos, B., Dubrowski, A., **Torres, A.**, Coffey, S., Anyinam, C., Graham, L., Peisachovich, E., Maheux-Pelletier, G.<br>
+International Educated Nurse-Centered Virtual Serious Game
+
 **Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
 _$20,000_ - Dubrowski A, Kapralos B, Mutombo P, **Torres A.**<br>
 Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities.
