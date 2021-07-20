@@ -63,6 +63,7 @@ Courses:
   - Digital Animation Techniques I
   - Motion Graphics
   - Programming for Mobile Devices (Swift for iOS)<br>
+<br>
 
 ## 🏫 Scholarly and Professional Academic Activities
 
@@ -86,6 +87,7 @@ Member of the Steering Comittee.
 **Bachelor in Architecture** in Architecture and Urbanism<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
   - **Dissertation:** Modular Architecture<br>
+<br>
 
 ## 🏆 Grants, honors & awards
 
@@ -134,11 +136,14 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Journal Articles
+Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Andrei Torres**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, March 23, 2021. DOI: 10.7759/cureus.14055.
+
 **Torres, A. B.**, da Rocha, A. R., da Silva, T. L. C., de Souza, J. N., & Gondim, R. S. (2020). [Multilevel data fusion for the internet of things in smart agriculture](https://www.sciencedirect.com/science/article/pii/S0168169919322999). _Computers and Electronics in Agriculture_, 171, 105309. DOI: 10.1016/j.compag.2020.105309
 
 Ferreira, C. M., Peixoto, M. J., Duarte, P. A., **Torres, A. B.**, Júnior, M. L. S., Rocha, L. S., & Viana, W. (2018). [An evaluation of cross-platform frameworks for multimedia mobile applications development](https://ieeexplore.ieee.org/abstract/document/8362158). _IEEE Latin America Transactions_, 16(4), 1206-1212. DOI: 10.1109/TLA.2018.8362158
 
 Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de Souza, J. N. (2016). [Management of multiple applications for shared sensor and actuators networks](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, 14(10), 4358-4366. DOI: 10.1109/TLA.2016.7786316
+<br>
 
 ### Book Chapters
 **Torres, Andrei** and maxSIMhealth Group (2021). [An interconnected collective of manufacturing, design, and simulation labs to advance medical simulation training](https://doi.org/10.1007/978-3-030-59608-8_8). In A. L. Brooks, S. Branham, B. Kapralos, A. Nakajima, J. Tyerman, and l. Jain (Eds.). _Recent Advances in Technologies for Inclusive Well-Being: Virtual Patients, Gamification and Simulation_. Springer-Verlag, Intelligent Systems Reference Library, vol. 196,  Germany,  pp. 141-176. DOI: 10.1007/978-3-030-59608-8_8
@@ -146,6 +151,7 @@ Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de So
 Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Básicos e o Estado da Arte](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_ (pp. 61-87), 1 ed. Campinas, São Paulo: Pontes Editores.
 
 Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). Internet of Things: Architecture, Technologies and Applications. In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
+<br>
 
 ### Conference Papers
 **Torres, A.**, Kapralos, B., Da Silva, E., Peisachovich, E. and Dubrowski, A. (2021, July). A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education. In _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, July 12-14, Online.
@@ -171,6 +177,7 @@ Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A
 Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.**, et al. (2013). extmobilistts: [Uma arquitetura de aplicação móvel para suporte a fóruns usando text-to-speech em ambientes virtuais de aprendizagem](http://sbrc2013.unb.br/files/anais/anais_sbrc2013.pdf). In _Anais do XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)_ (pp 1068-1075). SBC.
 
 Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC. DOI: 10.5753/cbie.sbie.2011.%25p
+<br>
 
 ### Abstracts and Posters
 Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Momand, B., Adams C., Lawson, L., Da Silva, C., Dubrowski, A. (2021) Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies. _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada. 10-12 November 2021.
@@ -192,9 +199,6 @@ Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Appl
 Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torres, A.**, Dhane, M., Misheva, B., Dubrowski, A., Mercier, F., Patocskai, E. (2020). A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial. _Canadian Conference for the Advancement of Surgical Education (C-CASE) 2020_, October 29th-30th.
 
 **Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21st-22nd. 
-
-### Editorials
-Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Andrei Torres**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Cureus, March 23, 2021. DOI: 10.7759/cureus.14055.
 <br>
 <br>
 ## ⚛ Research Projects
