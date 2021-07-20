@@ -153,30 +153,39 @@ Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Bá
 Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). Internet of Things: Architecture, Technologies and Applications. In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
 <br>
 
-### Conference Papers
-**Torres, A.**, Kapralos, B., Da Silva, E., Peisachovich, E. and Dubrowski, A. (2021, July). A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education. In _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, July 12-14, Online.
-
+### Full Papers
 **Torres, A.**, Carmichael, C., Wang, W., Paraskevakos, M., Uribe-Quevedo, A., Giles, P., & Yawney, J. L. (2020, August). [A 360 Video Editor Framework for Interactive Training](https://doi.org/10.1109/SeGAH49190.2020.9201707). In _2020 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_ (pp. 1-7). IEEE. DOI: 10.1109/SeGAH49190.2020.9201707
 
 Cruz, S. V., de Castro Quintino, G., **Torres, A. B.**, & Viana, W. (2019, October). [Providing Sense of Embodiment with Mobile Virtual Reality Devices: A Case Study using the" Lamp-Head's Laboratory" Animation](http://doi.org/10.1109/SVR.2019.00017). In _2019 21st Symposium on Virtual and Augmented Reality (SVR)_ (pp. 1-9). IEEE. DOI: 10.1109/SVR.2019.00017
 
 **Torres, A. B.**, Kapralos, B., Uribe-Quevedo, A., Quero, E. Z., & Dubrowski, A. (2019, October). [A gamified educational network for collaborative learning](https://doi.org/10.1007/978-3-030-49932-7_26). In _Interactive Mobile Communication, Technologies and Learning_ (pp. 266-275). Springer, Cham. DOI: 10.1007/978-3-030-49932-7_26
 
-Wilcocks, K., **Torres, A. B.**, Uribe-Quevedo, A., Kapralos, B., Hunt, S., Slade, K., & Cullen, G. (2019, June). [Development of a Virtual Reality-Based Working at Heights Safety Awareness Framework](http://doi.org/10.1109/ISCE.2019.8901011). In _2019 IEEE 23rd International Symposium on Consumer Technologies (ISCT)_ (pp. 103-104). IEEE. DOI: 10.1109/ISCE.2019.8901011
-
 **Torres, A. B.**, Adriano Filho, J., da Rocha, A. R., Gondim, R. S., & de Souza, J. N. (2017, July). [Outlier detection methods and sensor data fusion for precision agriculture](https://doi.org/10.5753/sbcup.2017.3316). In _Anais do IX Simpósio Brasileiro de Computação Ubíqua e Pervasiva_. SBC. DOI: 10.5753/sbcup.2017.3316
 
 **Torres, A. B.**, Rocha, A. R., & de Souza, J. N. (2016, July). [Análise de desempenho de brokers mqtt em sistema de baixo custo](https://doi.org/10.5753/wperformance.2016.9727). In _Anais do XV Workshop em Desempenho de Sistemas Computacionais e de Comunicação_ (pp. 47-58). SBC. DOI: 10.5753/wperformance.2016.9727
 
-Pequeno Filho, P. D. T. C., Sarmento, W. W. F., **Torres, A. B. B.**, Soares, J. M., Barroso, G. C., & Paillard, G. A. (2016, April). [u-LabPA: A framework based on ubiquitous computing for laboratory activities](https://doi.org/10.1109/EATIS.2016.7520146). In _2016 8th Euro American Conference on Telematics and Information Systems (EATIS)_ (pp. 1-5). IEEE. DOI: 10.1109/EATIS.2016.7520146
-
-Peixoto, M. J. P., **Torres, A. B.**, Sarmento, W. W., Freire, R. S., & Pequeno, H. S. L. (2014, September). [Mathpost: A Integração de uma Ferramenta Gráfica Utilizando LaTeX para Discussões em Webforum](http://www.abenge.org.br/cobenge/arquivos/5/Artigos/130415.pdf). In _Congresso Brasileiro de Educação em Engenharia (COBENGE)_. ABENGE.
+Peixoto, M. J. P., **Torres, A. B.**, Sarmento, W. W., Freire, R. S., & Pequeno, H. S. L. (2014, September). [Mathpost: A Integração de uma Ferramenta Gráfica Utilizando LaTeX para Discussões em Webforum](http://www.abenge.org.br/cobenge/legado/arquivos/5/Artigos/130415.pdf). In _Congresso Brasileiro de Educação em Engenharia (COBENGE)_. ABENGE.
 
 Antonio de Lisboa, C., **Torres, A. B. B.**, Peixoto, M. J. P., Bezerra, C. M. A., de Araujo Gurgel, D. A., Pequeno, L. C., & Sarmento, W. W. (2014). [Utilização de robótica livre com dispositivos móveisno ensino de lógica de programação para alunos do Ensino Fundamental](http://www.tise.cl/volumen10/TISE2014/tise2014_submission_222.pdf). In _XIX Conferência Internacional sobre Informática na Educação (TISE)_. SBC.
 
 Sarmento, W. W., Paillard, G. A., Lima, W. D. S., Rabelo, K. F., **Torres, A. B.**, et al. (2013). extmobilistts: [Uma arquitetura de aplicação móvel para suporte a fóruns usando text-to-speech em ambientes virtuais de aprendizagem](http://sbrc2013.unb.br/files/anais/anais_sbrc2013.pdf). In _Anais do XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)_ (pp 1068-1075). SBC.
 
 Sarmento, W. W., Harriman, C. L., Rabelo, K. F., & **Torres, A. B.** (2012, October). [Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE)_ (pp. 781-91). SBC. DOI: 10.5753/cbie.sbie.2011.%25p
+<br>
+
+### Short Papers
+**Torres, A.**, Kapralos, B., Da Silva, E., Peisachovich, E. and Dubrowski, A. (2021, July). A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education. In _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, July 12-14, Online.
+
+Wilcocks, K., **Torres, A. B.**, Uribe-Quevedo, A., Kapralos, B., Hunt, S., Slade, K., & Cullen, G. (2019, June). [Development of a Virtual Reality-Based Working at Heights Safety Awareness Framework](http://doi.org/10.1109/ISCE.2019.8901011). In _2019 IEEE 23rd International Symposium on Consumer Technologies (ISCT)_ (pp. 103-104). IEEE. DOI: 10.1109/ISCE.2019.8901011
+
+Pequeno Filho, P. D. T. C., Sarmento, W. W. F., **Torres, A. B. B.**, Soares, J. M., Barroso, G. C., & Paillard, G. A. (2016, April). [u-LabPA: A framework based on ubiquitous computing for laboratory activities](https://doi.org/10.1109/EATIS.2016.7520146). In _2016 8th Euro American Conference on Telematics and Information Systems (EATIS)_ (pp. 1-5). IEEE. DOI: 10.1109/EATIS.2016.7520146
+<br>
+
+### Extended Abstracts
+
+Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Adams, C., Lawson, L., Dubrowski, A. and Da Silva, C. (2021). An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
+
+Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Dubrowski, A., Baltazar, V., Qureshi, B. and Caraballo, N. (2021). Person-centered Virtual Serious Games: Mental Health Education. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
 <br>
 
 ### Abstracts and Posters
@@ -187,10 +196,6 @@ Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Momand, B., Adams C., Law
 Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Anyinam, C., Coffey, S., Graham, L., Dubrowski, A. (2021) Co-Designing Mental Health Virtual Reality Education _MEI 2021 4th International Conference on Medical Education Informatics_. Poster. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
 
 Buttu, D., Benson, A., Gino, B., Kapralos, B., **Torres, A.**, Dubrowski, A. (2021) Preliminary Data Results Regarding The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion Simulators to Train Pre-Hospital healthcare Providers. _MEI 2021 4th International Conference on Medical Education Informatics_. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
-
-Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Adams, C., Lawson, L., Dubrowski, A. and Da Silva, C. (2021). An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
-
-Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Dubrowski, A., Baltazar, V., Qureshi, B. and Caraballo, N. (2021). Person-centered Virtual Serious Games: Mental Health Education. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
 
 Dubrowski, A., Kapralos, B., Patocskai, E., **Torres, A.**, Arutiunian, A., Wahab, S., Weber, T.,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. _The Learner: Twenty-eighth International Conference on Learning_, July 9th-11th, Krakow, Poland.
 
