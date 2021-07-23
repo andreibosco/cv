@@ -199,7 +199,7 @@ Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Momand, B., Adams C., Law
 
 Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Anyinam, C., Coffey, S., Graham, L., Dubrowski, A. (2021) Co-Designing Mental Health Virtual Reality Education _MEI 2021 4th International Conference on Medical Education Informatics_. Poster. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
 
-Buttu, D., Benson, A., Gino, B., Kapralos, B., **Torres, A.**, Dubrowski, A. (2021) Preliminary Data Results Regarding The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion Simulators to Train Pre-Hospital healthcare Providers. _MEI 2021 4th International Conference on Medical Education Informatics_. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
+Buttu, D., **Torres, A.**, Kapralos, B., Dubrowski, A, Gino, B., Benson, A. (2021) The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion. _MEI 2021 4th International Conference on Medical Education Informatics_. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
 
 Dubrowski, A., Kapralos, B., Patocskai, E., **Torres, A.**, Arutiunian, A., Wahab, S., Weber, T.,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. _The Learner: Twenty-eighth International Conference on Learning_, July 9th-11th, Krakow, Poland.
 
