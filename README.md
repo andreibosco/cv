@@ -213,6 +213,9 @@ Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torres, A.**, Dhane, M.,
 <br>
 <br>
 ## ⚛ Research Projects
+**Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
+Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defense grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
+
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
 _My PhD research is part of this project_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
