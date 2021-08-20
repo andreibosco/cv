@@ -142,7 +142,7 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ### Journal Articles
 Nguyen B, **Torres A**, Sim W, Kenny D, Beavers L, Campbell D, Lou W, Kapralos B, Peter E, Dubrowski A, Krishnan S, Bhat V. (2021) [Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial](https://doi.org/10.2196/preprints.32240). JMIR Preprints. 15/08/2021:32240. DOI: 10.2196/preprints.32240
 
-Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Andrei Torres**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, March 23, 2021. DOI: 10.7759/cureus.14055
+Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Torres, Andrei**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, March 23, 2021. DOI: 10.7759/cureus.14055
 
 **Torres, A. B.**, da Rocha, A. R., da Silva, T. L. C., de Souza, J. N., & Gondim, R. S. (2020). [Multilevel data fusion for the internet of things in smart agriculture](https://www.sciencedirect.com/science/article/pii/S0168169919322999). _Computers and Electronics in Agriculture_, 171, 105309. DOI: 10.1016/j.compag.2020.105309
 
