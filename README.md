@@ -156,7 +156,7 @@ Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de So
 
 Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Básicos e o Estado da Arte](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_ (pp. 61-87), 1 ed. Campinas, São Paulo: Pontes Editores.
 
-Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). Internet of Things: Architecture, Technologies and Applications. In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
+Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). [Internet of Things: Architecture, Technologies and Applications.](https://novapublishers.com/shop/the-internet-of-things-iot-applications-technology-and-privacy-issues/) In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
 <br>
 
 ### Full Papers
