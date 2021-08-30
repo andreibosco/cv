@@ -224,6 +224,7 @@ Interdisciplinary project in partnership with members of the Health Science depa
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
 _My PhD research is part of this project_<br>
 Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
+  - [A videogame that aims to enlighten](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
 _My master's research was part of this project_<br>
