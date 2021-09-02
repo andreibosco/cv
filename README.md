@@ -11,7 +11,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 Responsible for laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
 
 **Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
-Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, specifically in the fields of digital animation and 3D.
+Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, focused on digital animation and 3D.
 
 **Intern** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
 _Internship part of the Collaborative Learning of Usability Experiences (CLUE) program_<br>
@@ -22,24 +22,20 @@ _Internship part of the Collaborative Learning of Usability Experiences (CLUE) p
 Worked on a project to create a virtual reality application to be used as part of the working-at-heights training program. 
 
 **Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
-- Drafted, designed and implemented the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails)
-- Created the UI design of various mobile apps for Android and iOS
-- Created and maintain UI tests for Solar 2
+Drafted, designed and implemented the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails), created the UI design of various mobile apps for Android and iOS and created and maintained UI tests for Solar 2.
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
 Researched and implemented 3D effects to be used in the new transitions, intros and programs for TV Jangadeiro. Also worked in optimizing assets (objects, scenarios, materials) and improving the network render structure.
 
 **Webdesigner** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(2005 - Jan 2011)_ <br>
-- Developed layouts used by Distance Learning courses
-- Usability and accessibility research
-- Researched and implemented new technologies (e.g., HTML5, augmented reality)
+Developed layouts used by Distance Learning courses, improved usability, accessibility and implemented new technologies (e.g., HTML5, augmented reality) into Distance Learning material.
 
 **Intern** @ André Grieser Architecture and Acoustic Consulting _(Mar 2008 - Aug 2008)_ <br>
-_Architecture internship_
-Assisted in the design of acoustic-related architecture projects for residential and commercial purposes.
+_Architecture internship_<br>
+Assisted in the design of acoustic-related residential and commercial architecture projects.
 
 **Intern** @ César Fiuza Projetos _(Aug 2007 - Dec 2007)_ <br>
-_Architecture internship_
+_Architecture internship_<br>
 Assisted in the design of commercial architecture projects and created 3D renders.
 <br>
 <br>
