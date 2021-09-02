@@ -189,29 +189,26 @@ W. W. F. Sarmento, G. A. L. Paillard, W. S. Lima, K. F. Rabelo, **A. Torres**, H
 W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR"](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _XXII Simpósio Brasileiro de Informática na Educação e o XVII Workshop de Informática na Escola (SBIE - WIE))_. Anais do Simpósio Brasileiro de Informática na Educação, pp. 781-791, Aracaju, 2011.
 <br>
 
-### Extended Abstracts
-
-Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Adams, C., Lawson, L., Dubrowski, A. and Da Silva, C. (2021). An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
-
-Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Dubrowski, A., Baltazar, V., Qureshi, B. and Caraballo, N. (2021). Person-centered Virtual Serious Games: Mental Health Education. _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, July 12th-16th.
-<br>
-
 ### Abstracts and Posters
-Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Momand, B., Adams C., Lawson, L., Da Silva, C., Dubrowski, A. (2021) Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies. _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada. 10-12 November 2021.
+P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
 
-Mutombo, P., **Torres, A.**, Kapralos, B., Gamble, B., Momand, B., Adams C., Lawson, L., Da Silva, C., Dubrowski, A. (2021) Seniors Cultural Competency Virtual Learning Environment (SCCVLE): An Innovative Education Tool to enhance Competencies. _MEI 2021 4th International Conference on Medical Education Informatics_. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
+P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Seniors Cultural Competency Virtual Learning Environment (SCCVLE): An Innovative Education Tool to enhance Competencies," _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-Da Silva, C., **Torres, A.**, Kapralos, B., Peisachovich, E., Anyinam, C., Coffey, S., Graham, L., Dubrowski, A. (2021) Co-Designing Mental Health Virtual Reality Education _MEI 2021 4th International Conference on Medical Education Informatics_. Poster. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
+C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, A. Dubrowski, "Co-Designing Mental Health Virtual Reality Education," _MEI 2021 4th International Conference on Medical Education Informatics_, Poster, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-Buttu, D., **Torres, A.**, Kapralos, B., Dubrowski, A, Gino, B., Benson, A. (2021) The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion. _MEI 2021 4th International Conference on Medical Education Informatics_. Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia. 12-15 July 2021.
+D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, "The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion," _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-Dubrowski, A., Kapralos, B., Patocskai, E., **Torres, A.**, Arutiunian, A., Wahab, S., Weber, T.,  Mnaymneh M. (2021). Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training. _The Learner: Twenty-eighth International Conference on Learning_, July 9th-11th, Krakow, Poland.
+P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, "An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies," _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021.
 
-Wahab, S., Smeeton, D., **Torres, A.**, Kapralos, B., Dubrowski, A. (2020). Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study. _2020 Canadian Health Workforce Virtual Conference_, December 9th-10th.
+C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, "Person-centered Virtual Serious Games: Mental Health Education," _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021.
 
-Guérard-Poirier, N., Beniey, M., Méloche-Dumas, L., **Torres, A.**, Dhane, M., Misheva, B., Dubrowski, A., Mercier, F., Patocskai, E. (2020). A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial. _Canadian Conference for the Advancement of Surgical Education (C-CASE) 2020_, October 29th-30th.
+A. Dubrowski, B. Kapralos, E. Patocskai, **A. Torres**, A. Arutiunian, S. Wahab, T. Weber, M. Mnaymneh, "Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training," _The Learner: Twenty-eighth International Conference on Learning_, Krakow, Poland, Jul. 9-11, 2021.
 
-**Torres, A.**, Kapralos,  B., Uribe-Quevedo, A., Zea  E., Dubrowski, A. (2019). A gamified educational network for collaborative learning. In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, October 21st-22nd. 
+S. Wahab, D. Smeeton, **A. Torres**, B. Kapralos, A. Dubrowski, "Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study," _2020 Canadian Health Workforce Virtual Conference_, Dec. 9-10, 2020.
+
+N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. Misheva, A. Dubrowski, F. Mercier, E. Patocskai, "A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial," _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 29-30, 2020.
+
+**A. Torres**, B. Kapralos, A. Uribe-Quevedo, E. Zea, A. Dubrowski, "A gamified educational network for collaborative learning". In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, Oct. 21-22, 2019.
 <br>
 <br>
 ## ⚛ Research Projects
