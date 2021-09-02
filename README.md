@@ -144,15 +144,15 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Journal Articles
-Nguyen B, **Torres A**, Sim W, Kenny D, Beavers L, Campbell D, Lou W, Kapralos B, Peter E, Dubrowski A, Krishnan S, Bhat V. (2021) [Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial](https://doi.org/10.2196/preprints.32240). JMIR Preprints. 15/08/2021:32240. DOI: 10.2196/preprints.32240
+B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/preprints.32240). JMIR Preprints. 15/08/2021:32240, 2021, doi: 10.2196/preprints.32240 _*Under review*_
 
-Dubrowski, A., Kapralos, B., Peisachovich, E., Da Silva, C. and **Torres, Andrei**. (2021) [A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, March 23, 2021. DOI: 10.7759/cureus.14055
+A. Dubrowski, B. Kapralos, E. Peisachovich, C. Da Silva, and **A. Torres**, ["A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education"](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, Mar. 2021, doi: 10.7759/cureus.14055
 
-**Torres, A. B.**, da Rocha, A. R., da Silva, T. L. C., de Souza, J. N., & Gondim, R. S. (2020). [Multilevel data fusion for the internet of things in smart agriculture](https://www.sciencedirect.com/science/article/pii/S0168169919322999). _Computers and Electronics in Agriculture_, 171, 105309. DOI: 10.1016/j.compag.2020.105309
+**A. Torres**, A. R. da Rocha, T. L. Coelho da Silva, J. N. de Souza, and R. S. Gondim, ["Multilevel data fusion for the internet of things in smart agriculture"](https://www.sciencedirect.com/science/article/pii/S0168169919322999). _Computers and Electronics in Agriculture_, vol. 171, p. 105309, Apr. 2020, doi: 10.1016/j.compag.2020.105309
 
-Ferreira, C. M., Peixoto, M. J., Duarte, P. A., **Torres, A. B.**, Júnior, M. L. S., Rocha, L. S., & Viana, W. (2018). [An evaluation of cross-platform frameworks for multimedia mobile applications development](https://ieeexplore.ieee.org/abstract/document/8362158). _IEEE Latin America Transactions_, 16(4), 1206-1212. DOI: 10.1109/TLA.2018.8362158
+C. M. S. Ferreira, M. J. P. Peixoto, P. A. S. Duarte, **A. Torres**, M. L. Silva Junior,  L. S. Rocha, and W. Viana, ["An evaluation of cross-platform frameworks for multimedia mobile applications development"](https://ieeexplore.ieee.org/abstract/document/8362158). _IEEE Latin America Transactions_, vol. 16, no. 4, pp. 1206-1212, 2018, doi: 10.1109/TLA.2018.8362158
 
-Carvalho, J. D. S., Rocha, A. R., Sousa, F. R. C., **Torres, A. B. B.**, & de Souza, J. N. (2016). [Management of multiple applications for shared sensor and actuators networks](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, 14(10), 4358-4366. DOI: 10.1109/TLA.2016.7786316
+J. C. S. Carvalho, A. R. Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Management of multiple applications for shared sensor and actuators networks"](http://ieeexplore.ieee.org/document/7786316/). _IEEE Latin America Transactions_, vol. 14, no. 10, pp. 4358-4366, 2016, doi: 10.1109/TLA.2016.7786316
 <br>
 
 ### Book Chapters
