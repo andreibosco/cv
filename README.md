@@ -156,11 +156,11 @@ J. C. S. Carvalho, A. R. Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souz
 <br>
 
 ### Book Chapters
-**Torres, Andrei** and maxSIMhealth Group (2021). [An interconnected collective of manufacturing, design, and simulation labs to advance medical simulation training](https://doi.org/10.1007/978-3-030-59608-8_8). In A. L. Brooks, S. Branham, B. Kapralos, A. Nakajima, J. Tyerman, and l. Jain (Eds.). _Recent Advances in Technologies for Inclusive Well-Being: Virtual Patients, Gamification and Simulation_. Springer-Verlag, Intelligent Systems Reference Library, vol. 196,  Germany,  pp. 141-176. DOI: 10.1007/978-3-030-59608-8_8
+**A. Torres** and maxSIMhealth Group, ["An interconnected collective of manufacturing, design, and simulation labs to advance medical simulation training"](https://doi.org/10.1007/978-3-030-59608-8_8). In: A. L. Brooks, S. Branham, B. Kapralos, A. Nakajima, J. Tyerman, and l. Jain (Eds.). _Recent Advances in Technologies for Inclusive Well-Being: Virtual Patients, Gamification and Simulation_, Cham: Springer International Publishing, pp. 141–176, 2021, doi: 10.1007/978-3-030-59608-8_8
 
-Bonates, Mara F. & **Torres, Andrei B. B.** (2017). [Modelagem 3D: Conceitos Básicos e o Estado da Arte](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_ (pp. 61-87), 1 ed. Campinas, São Paulo: Pontes Editores.
+M. F. Bonates and **A. Torres**, ["Modelagem 3D: Conceitos Básicos e o Estado da Arte"](https://www.amazon.com/Sistemas-M%C3%ADdias-Digitais-introdu%C3%A7%C3%A3o-Portuguese-ebook/dp/B0761ZF8NM/ref=sr_1_1?dchild=1&keywords=Sistemas+e+M%C3%ADdias+Digitais%3A+uma+introdu%C3%A7%C3%A3o&qid=1603213656&sr=8-1). In: Edgar Marçal et al. (Org.).  _Sistemas e Mídias Digitais: Uma Introdução_, 1 ed., São Paulo: Pontes Editores, Campinas, pp. 61-87, 2017.
 
-Rocha, Atslands R., Souza, Flavio R. C., **Torres, Andrei B. B.** & de Souza, José Neuman. (2016). [Internet of Things: Architecture, Technologies and Applications.](https://novapublishers.com/shop/the-internet-of-things-iot-applications-technology-and-privacy-issues/) In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_ (pp 1-21), 1 ed. Hauppauge, New York: Nova Publishers.
+A. R. Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of Things: Architecture, Technologies and Applications."](https://novapublishers.com/shop/the-internet-of-things-iot-applications-technology-and-privacy-issues/) In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_, 1st ed., S. Watts, Ed. Hauppauge, New York: Nova Publishers, pp. 1–21, 2016.
 <br>
 
 ### Full Papers
