@@ -214,19 +214,21 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 ## ⚛ Research Projects
 **Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
 Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defense grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
+  - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/)
 
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
-_My PhD research is part of this project_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
-  - [York collaborates on development of virtual educational tool for nursing students](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/)
+  - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/)
+
+**Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities** _(2020 - Current)_<br>
+A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University. Researcher and developer of the technology components.
+  - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
 
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
-_My PhD research is part of this project_<br>
 Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
-  - [A videogame that aims to enlighten](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
+  - Video: [GEN features demo.](https://youtu.be/6GvnNAQNWl8)
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
-_My master's research was part of this project_<br>
 Researcher and developer of software and hardware. Worked in implementing data fusion algorithms in a sensor network based on low-end hardware.
 
 **Virtual Shooting Training System** _(2010 - 2011)_<br>
