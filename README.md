@@ -75,9 +75,9 @@ Member of the Steering Comittee.
 <br>
 ## 🎓 Education
 
-**PhD Student** in Computer Science<br>
+**PhD (Candidate; Expected completion July 2022)** in Computer Science<br>
 [OntarioTech University](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) - Oshawa, Ontario, Canada _(Aug 2018 - Aug 2022)_<br>
-  - **Research Topics:** Virtual and Augmented Reality, Serious Games, Gamification
+  - **Research Topics:** Virtual and Augmented Reality, Serious Games, Gamification, Virtual Simulation
 
 **Master of Engineering** in Teleinformatics Engineering<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Feb 2015 - Jul 2017)_<br>
@@ -91,16 +91,20 @@ Member of the Steering Comittee.
 
 ## 🏆 Grants, honors & awards
 
-**eCampus Ontario - Virtual Learning Strategy - Content** @ Government of Ontario _(2021 - 2022)_<br>
-_$77,396_ - Da Silva, C., Kapralos, B., Dubrowski, A., **Torres, A.**, Coffey, S., Anyinam, C., Graham, L., Peisachovich, E., Maheux-Pelletier, G.<br>
+**eCampus Ontario - Virtual Learning Strategy - Content** @ Government of Ontario _(May 2021 - Feb 2022)_<br>
+_$77,396_ - C. da Silva, B. Kapralos, A. Dubrowski, **A. Torres**, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, G. Maheux-Pelletier<br>
 International Educated Nurse-Centered Virtual Serious Game
 
-**Teaching City Grant** @ City of Oshawa _(Aug 2020 - July 2021)_<br>
-_$20,000_ - Dubrowski A, Kapralos B, Mutombo P, **Torres A.**<br>
+**Social Sciences and Humanities Research Council Small Grants Program** @ Ontario Tech University _(Mar 2021 - Mar 2022)_<br>
+_$6,914_ - A. Dubrowski, B. Kapralos, **A. Torres**<br>
+Enhancing Educators' Experience with a Collaborative Learning Management System (GEN-LMS)
+
+**Teaching City Grant** @ City of Oshawa _(Aug 2020 - Jul 2021)_<br>
+_$20,000_ - A. Dubrowski, B. Kapralos, P. Mutombo, **A. Torres**<br>
 Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities.
 
 **Ontario Trillium Scholarship (OTS)** @ Government of Ontario _(Aug 2018 - Aug 2022)_<br>
-_$40,066 yearly_ - **Torres A. B. B.**<br>
+_$40,066 yearly_ - **A. Torres**<br>
 The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
 <br>
 <br>
@@ -132,9 +136,9 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 **3D Engines**: Unity, Unreal<br>
 **Scientific computing**: Python, Matlab<br>
 **Scripting languages**: Python, JavaScript, Shell Script<br>
+**Video Editing/Compositing**: After Effects, Nuke, Fusion<br>
 **Revision control**: Git, Subversion<br>
 **Digital Typesetting**: LaTeX<br>
-**Video Editing/Compositing**: After Effects, Nuke, Fusion<br>
 <br>
 <br>
 ## 📜 Publications & Talks
