@@ -194,9 +194,9 @@ C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey,
 
 D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, "The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion," _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, "An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies," _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021.
+P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, ["An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies,"](https://ieeexplore.ieee.org/document/9529828) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00195
 
-C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, "Person-centered Virtual Serious Games: Mental Health Education," _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021.
+C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, ["Person-centered Virtual Serious Games: Mental Health Education,"](https://ieeexplore.ieee.org/document/9529908) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00196
 
 A. Dubrowski, B. Kapralos, E. Patocskai, **A. Torres**, A. Arutiunian, S. Wahab, T. Weber, M. Mnaymneh, "Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training," _The Learner: Twenty-eighth International Conference on Learning_, Krakow, Poland, Jul. 9-11, 2021.
 
