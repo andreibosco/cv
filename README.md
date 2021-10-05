@@ -188,6 +188,8 @@ W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliaçã
 ### Abstracts and Posters
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
 
+N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres**, M. Dhane, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, "Virtual Simulation in Medical Education for the Acquisition of Fundamental Surgical Skills: a Randomized Controlled Trial," _The Royal College Simulation Summit_, Virtual, Nov. 4-5, 2021.
+
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Seniors Cultural Competency Virtual Learning Environment (SCCVLE): An Innovative Education Tool to enhance Competencies," _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
 C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, A. Dubrowski, "Co-Designing Mental Health Virtual Reality Education," _MEI 2021 4th International Conference on Medical Education Informatics_, Poster, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
@@ -199,6 +201,10 @@ P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubro
 C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, ["Person-centered Virtual Serious Games: Mental Health Education,"](https://ieeexplore.ieee.org/document/9529908) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00196
 
 A. Dubrowski, B. Kapralos, E. Patocskai, **A. Torres**, A. Arutiunian, S. Wahab, T. Weber, M. Mnaymneh, "Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training," _The Learner: Twenty-eighth International Conference on Learning_, Krakow, Poland, Jul. 9-11, 2021.
+
+N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres**, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "La Pédagogie Chirurgicale en temps de COVID-19: l’enseignement des points de suture avancés entre pairs à travers une plateforme en ligne," _L’Association Québécoise de Chirurgie (AQC) – 51e Congrès annuel 2021_, Virtual, Montréal, QC, May 21, 2021.
+
+N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres**, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "La Pédagogie Chirurgicale en temps de COVID-19: l’enseignement des points de suture avancés entre pairs à travers une plateforme en ligne," _Journée annuelle de la recherche du Centre de pédagogie appliquée aux sciences de la santé (CPASS)_, Université de Montréal, Virtual, Montréal, QC, May 19, 2021.
 
 S. Wahab, D. Smeeton, **A. Torres**, B. Kapralos, A. Dubrowski, "Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study," _2020 Canadian Health Workforce Virtual Conference_, Dec. 9-10, 2020.
 
