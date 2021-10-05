@@ -210,7 +210,7 @@ N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres**, M. Dhane, F. Me
 
 S. Wahab, D. Smeeton, **A. Torres**, B. Kapralos, A. Dubrowski, "Application of hierarchical task analysis to construct experiential task analysis hands-on and on-line training modules to teach microtomy: A pilot study," _2020 Canadian Health Workforce Virtual Conference_, Dec. 9-10, 2020.
 
-N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. Misheva, A. Dubrowski, F. Mercier, E. Patocskai, ["A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial,"](http://canjsurg.ca/wp-content/uploads/2021/01/63-6-S61.pdf) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 29-30, 2020.
+N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. Misheva, A. Dubrowski, F. Mercier, E. Patocskai, ["A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial,"](https://www.canjsurg.ca/content/cjs/63/6_Suppl_1/S61.full.pdf) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 29-30, 2020, doi: 10.1503/cjs.021920.
 
 **A. Torres**, B. Kapralos, A. Uribe-Quevedo, E. Zea, A. Dubrowski, "A gamified educational network for collaborative learning". In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, Oct. 21-22, 2019.
 <br>
