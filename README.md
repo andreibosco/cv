@@ -162,7 +162,7 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 <br>
 
 ### Conference Papers
-**A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, and A. Dubrowski, "A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education". In: _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, Online, July 12-14, 2021.
+**A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, and A. Dubrowski, ["A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education"](https://doi.org/10.1109/IISA52424.2021.9555531). In: _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, Online, July 12-14, 2021, doi: 10.1109/IISA52424.2021.9555531
 
 **A. Torres**, C. Carmichael, W. Wang, M. Paraskevakos, A. Uribe-Quevedo, P. Giles, and J. L. Yawney, ["A 360 Video Editor Framework for Interactive Training"](https://doi.org/10.1109/SeGAH49190.2020.9201707). In: _2020 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Vancouver, BC, Canada, pp. 1-7, 2020, doi: 10.1109/SeGAH49190.2020.9201707
 
