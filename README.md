@@ -188,6 +188,8 @@ W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliaçã
 <br>
 
 ### Abstracts and Posters
+N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022. _(To present)_
+
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
 
 N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres**, M. Dhane, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, "Virtual Simulation in Medical Education for the Acquisition of Fundamental Surgical Skills: a Randomized Controlled Trial," _The Royal College Simulation Summit_, Virtual, Nov. 4-5, 2021.
