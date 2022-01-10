@@ -142,6 +142,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ### Journal Articles
 B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/preprints.32240). JMIR Preprints. 15/08/2021:32240, 2021, doi: 10.2196/preprints.32240 _*Under review*_
 
+M. Habti, F. Bénard, A. Arutiunian, S. Bérubé, D. Cadoret, L. Meloche-Dumas, **A. Torres**, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, ["Development and Learner-Based Assessment of a Novel, Customized, 3D Printed Small Bowel Simulator for Hand-Sewn Anastomosis Training"](https://www.cureus.com/articles/77885-development-and-learner-based-assessment-of-a-novel-customized-3d-printed-small-bowel-simulator-for-hand-sewn-anastomosis-training). Technical Report. Cureus, Dec. 2021, doi: 10.7759/cureus.20536
+
 E. S. Junqueira, C. Silva, **A. Torres**, E. Teixeira, ["Análise, Através da Técnica de Rastreamento Ocular, de Interfaces de Fórum Virtual que Favorecem a Aprendizagem On-line (Analysis, Through the Eye Tracking Technique, of Virtual Forum Interfaces Features that Raise On-line Learning)"](http://www.periodicoseletronicos.ufma.br/index.php/cadernosdepesquisa/article/view/9997). Cadernos de Pesquisa, vol. 28, no. 3, pp. 181-202, Jul-Sep. 2021.
 
 A. Dubrowski, B. Kapralos, E. Peisachovich, C. Da Silva, and **A. Torres**, ["A Model for an Online Learning Management System for Simulation-Based Acquisition of Psychomotor Skills in Health Professions Education"](https://doi.org/10.7759/cureus.14055). Editorial. Cureus, Mar. 2021, doi: 10.7759/cureus.14055
