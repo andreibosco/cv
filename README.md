@@ -190,7 +190,7 @@ W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliaçã
 <br>
 
 ### Abstracts and Posters
-N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022. _(To present)_
+N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022.
 
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
 
@@ -200,7 +200,7 @@ P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawso
 
 C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, A. Dubrowski, ["Co-Designing Mental Health Virtual Reality Education,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Poster, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, ["The Development of A Virtual Education Simulation of an Adult Proximal Tibia Model for Intraosseous Insertion,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
+D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, ["Preliminary data results regarding the development of a virtual education simulation of an adult proximal tibia model for intraosseous insertion simulators to train pre-hospital healthcare providers,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, ["An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies,"](https://ieeexplore.ieee.org/document/9529828) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00195
 
