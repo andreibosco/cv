@@ -140,7 +140,7 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Journal Articles
-B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/preprints.32240). JMIR Preprints. 15/08/2021:32240, 2021, doi: 10.2196/preprints.32240 _*Under review*_
+B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/32240). JMIR Research Protocols, Feb. 2022, vol. 11(2), p. e32240, doi: 10.2196/32240
 
 M. Habti, F. Bénard, A. Arutiunian, S. Bérubé, D. Cadoret, L. Meloche-Dumas, **A. Torres**, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, ["Development and Learner-Based Assessment of a Novel, Customized, 3D Printed Small Bowel Simulator for Hand-Sewn Anastomosis Training"](https://www.cureus.com/articles/77885-development-and-learner-based-assessment-of-a-novel-customized-3d-printed-small-bowel-simulator-for-hand-sewn-anastomosis-training). Technical Report. Cureus, Dec. 2021, doi: 10.7759/cureus.20536
 
