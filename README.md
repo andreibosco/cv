@@ -7,11 +7,14 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 <br>
 ## 👷‍♂️ Professional Experience
 
-**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
-Responsible for laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
+**Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Jan 2021 - Present)_ <br>
+Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work..
 
 **Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
 Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, focused on digital animation and 3D.
+
+**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Dec 2020)_ <br>
+Responsible for laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
 
 **Intern** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
 _Internship part of the Collaborative Learning of Usability Experiences (CLUE) program_<br>
@@ -230,13 +233,13 @@ Interdisciplinary project in partnership with members of Ryerson University, Uni
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
   - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/)
 
-**Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities** _(2020 - Current)_<br>
-A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University. Researcher and developer of the technology components.
-  - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
-
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
 Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
   - Video: [GEN features demo.](https://youtu.be/6GvnNAQNWl8)
+
+**Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities** _(2020 - 2022)_<br>
+A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University. Researcher and developer of the technology components.
+  - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
 Researcher and developer of software and hardware. Worked in implementing data fusion algorithms in a sensor network based on low-end hardware.
