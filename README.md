@@ -142,7 +142,7 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 <br>
 ## 📜 Publications & Talks
 
-### Journal Articles
+### Refereed Journal Publications
 M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. Cureus, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
 
 B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/32240). JMIR Research Protocols, Feb. 2022, vol. 11(2), p. e32240, doi: 10.2196/32240
@@ -168,7 +168,7 @@ M. F. Bonates and **A. Torres**, ["Modelagem 3D: Conceitos Básicos e o Estado d
 A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of Things: Architecture, Technologies and Applications."](https://novapublishers.com/shop/the-internet-of-things-iot-applications-technology-and-privacy-issues/) In: Silvia Watts. (Org.). _The Internet of Things (IoT): Applications, Technology, and Privacy Issues_, 1st ed., S. Watts, Ed. Hauppauge, New York: Nova Publishers, pp. 1–21, 2016.
 <br>
 
-### Conference Papers
+### Refereed Conference and Workshop Proceedings (Full and Short Papers)
 **A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, and A. Dubrowski, ["A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education"](https://doi.org/10.1109/IISA52424.2021.9555531). In: _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, Online, July 12-14, 2021, doi: 10.1109/IISA52424.2021.9555531
 
 **A. Torres**, C. Carmichael, W. Wang, M. Paraskevakos, A. Uribe-Quevedo, P. Giles, and J. L. Yawney, ["A 360 Video Editor Framework for Interactive Training"](https://doi.org/10.1109/SeGAH49190.2020.9201707). In: _2020 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Vancouver, BC, Canada, pp. 1-7, 2020, doi: 10.1109/SeGAH49190.2020.9201707
@@ -176,8 +176,6 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 S. V. Cruz, G. de Castro Quintino, **A. Torres**, and W. Viana, ["Providing Sense of Embodiment with Mobile Virtual Reality Devices: A Case Study using the ' Lamp-Head's Laboratory' Animation"](http://doi.org/10.1109/SVR.2019.00017). In: _2019 21st Symposium on Virtual and Augmented Reality (SVR)_, Rio de Janeiro, Brazil, pp. 1-9, 2019, doi: 10.1109/SVR.2019.00017
 
 **A. Torres**, B. Kapralos, A. Uribe-Quevedo, E. Z. Quero, and A. Dubrowski, ["A gamified educational network for collaborative learning"](https://doi.org/10.1007/978-3-030-49932-7_26). In: Auer M.E., Tsiatsos T. (eds) _Internet of Things, Infrastructures and Mobile Applications. IMCL 2019. Advances in Intelligent Systems and Computing_, vol 1192. Springer, Cham., doi: 10.1007/978-3-030-49932-7_26
-
-K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, and G. Cullen, ["Development of a Virtual Reality-Based Working at Heights Safety Awareness Framework"](http://doi.org/10.1109/ISCE.2019.8901011). In: _Proceedings of  the  23rd  Annual  IEEE  International  Symposium  on  Consumer  Technologies (ISCT 2019)_, June 19-21, Ancona, Italy, doi: 10.1109/ISCE.2019.8901011
 
 **A. Torres**, J. Adriano Filho, A. R. da Rocha, R. S. Gondim, and J. N. De Souza, ["Outlier detection methods and sensor data fusion for precision agriculture"](https://doi.org/10.5753/sbcup.2017.3316). In: _Anais do IX Simpósio Brasileiro de Computação Ubíqua e Pervasiva (SBCUP)_. São Paulo, 2017, doi: 10.5753/sbcup.2017.3316
 
@@ -194,7 +192,15 @@ W. W. F. Sarmento, G. A. L. Paillard, W. S. Lima, K. F. Rabelo, **A. Torres**, H
 W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliação de Usabilidade no processo de desenvolvimento contínuo em Ambientes Virtuais de Aprendizagem: um estudo de caso com o ambiente SOLAR"](https://www.br-ie.org/pub/index.php/sbie/article/view/1640). In _XXII Simpósio Brasileiro de Informática na Educação e o XVII Workshop de Informática na Escola (SBIE - WIE))_. Anais do Simpósio Brasileiro de Informática na Educação, pp. 781-791, Aracaju, 2011.
 <br>
 
-### Abstracts and Posters
+### Refereed Conference and Workshop Proceedings (Extended Abstracts)
+P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, ["An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies,"](https://ieeexplore.ieee.org/document/9529828) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00195
+
+C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, ["Person-centered Virtual Serious Games: Mental Health Education,"](https://ieeexplore.ieee.org/document/9529908) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00196
+
+K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, and G. Cullen, ["Development of a Virtual Reality-Based Working at Heights Safety Awareness Framework"](http://doi.org/10.1109/ISCE.2019.8901011). In: _Proceedings of  the  23rd  Annual  IEEE  International  Symposium  on  Consumer  Technologies (ISCT 2019)_, June 19-21, Ancona, Italy, doi: 10.1109/ISCE.2019.8901011
+<br>
+
+### Refereed Abstracts and Posters
 N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022.
 
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
@@ -205,11 +211,8 @@ P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawso
 
 C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, A. Dubrowski, ["Co-Designing Mental Health Virtual Reality Education,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Poster, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
-D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, ["Preliminary data results regarding the development of a virtual education simulation of an adult proximal tibia model for intraosseous insertion simulators to train pre-hospital healthcare providers,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
-
-P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, ["An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies,"](https://ieeexplore.ieee.org/document/9529828) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00195
-
-C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, ["Person-centered Virtual Serious Games: Mental Health Education,"](https://ieeexplore.ieee.org/document/9529908) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00196
+D. Buttu, **A. Torres**, B. Kapralos, A. Dubrowski, B. Gino, A. Benson, ["Preliminary data results regarding the development of a virtual education simulation of an adult proximal tibi
+intraosseous insertion simulators to train pre-hospital healthcare providers,"](https://mei2021.org/sites/default/files/2021-07/Abstracts%20and%20Programme%20MEI2021_16.07.2021_15.00.pdf) _MEI 2021 4th International Conference on Medical Education Informatics_, Virtual, The University of Nottingham, UK and the University of Malaya, Malaysia, Jul. 12-15, 2021.
 
 A. Dubrowski, B. Kapralos, E. Patocskai, **A. Torres**, A. Arutiunian, S. Wahab, T. Weber, M. Mnaymneh, "Virtual Health Experiential Learning Platform (HELP) - Utilizing Gamified Educational Networking and Three-Dimensional Printing for Distance Training," _The Learner: Twenty-eighth International Conference on Learning_, Krakow, Poland, Jul. 9-11, 2021.
 
