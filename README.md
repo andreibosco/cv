@@ -228,7 +228,7 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 <br>
 ## ⚛ Research Projects
 **Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
-Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defense grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
+Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defence grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
   - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/)
 
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
