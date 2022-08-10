@@ -104,7 +104,7 @@ Using an innovative tool to teach and test cultural competencies to enhance ageâ
 
 **Ontario Trillium Scholarship (OTS)** @ Government of Ontario _(Aug 2018 - Aug 2022)_<br>
 _$40,066 yearly_ - **A. Torres**<br>
-The Ontario Trillium Scholarships (OTS) program is a initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
+The Ontario Trillium Scholarships (OTS) program is an initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
 <br>
 <br>
 ## ðŸ’¬ Languages
