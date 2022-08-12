@@ -90,7 +90,11 @@ Member of the Steering Comittee.
 
 ## 🏆 Grants, honors & awards
 
-**eCampus Ontario - Virtual Learning Strategy - Content** @ Government of Ontario _(May 2021 - Feb 2022)_<br>
+**eCampus Ontario - Virtual Learning Strategy - Digital Content** @ Government of Ontario _(Jul 2022 - Jan 2023)_<br>
+_$70,348_ - W. H. Gage, C. da Silva, B. Kapralos, A. Dubrowski, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, **A. Torres**, F. Singh<br>
+Palliative care in Long-term Care: A Virtual Serious Game
+
+**eCampus Ontario - Virtual Learning Strategy - Digital Content** @ Government of Ontario _(May 2021 - Feb 2022)_<br>
 _$77,396_ - C. da Silva, B. Kapralos, A. Dubrowski, **A. Torres**, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, G. Maheux-Pelletier<br>
 International Educated Nurse-Centered Virtual Serious Game
 
