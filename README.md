@@ -143,6 +143,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Refereed Journal Publications
+B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). Healthcare Management Forum, SAGE Publications Inc, Aug 2022, doi: 10.1177/08404704221114961
+
 M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. Cureus, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
 
 B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/32240). JMIR Research Protocols, Feb. 2022, vol. 11(2), p. e32240, doi: 10.2196/32240
