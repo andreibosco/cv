@@ -209,6 +209,9 @@ K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, an
 <br>
 
 ### Refereed Abstracts and Posters
+
+S. Siraj, M. Sivanathan, S. Abdo, J. Micallef, B. Gino, D. Butthu, K. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, A. Dubrowski, "The Acceptability of Three Dimensionally (3D) Printed Simulators in the Context of Training for Rural and Remote Practice: A Case Study of University and Not-for-Profit Collaboration." _2022 SIM Expo_, Toronto, Ontario, Canada, Oct 17-18, 2022. [To be presented]
+
 N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022.
 
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, B. Momand, C. Adams, L. Lawson, C. da Silva, A. Dubrowski, "Using Community-Based Participatory Research to build an Innovative Virtual Environment to Enhance Age-friendly Cultural Competencies," _IFAs 15th Global Conference on Ageing "Rights Matter"_, Niagara Falls, Ontario, Canada, Nov. 10-12, 2021.
