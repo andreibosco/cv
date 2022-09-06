@@ -10,7 +10,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 **Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Jan 2021 - Present)_ <br>
 Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work..
 
-**Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
+**Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Aug 2022)_ <br>
 Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, focused on digital animation and 3D.
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Dec 2020)_ <br>
@@ -147,6 +147,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Refereed Journal Publications
+S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, C. Pereira, A. Dubrowski, ["Hands-On Practice on Sustainable Simulators in the Context of Training for Rural and Remote Practice Through a Fundamental Skills Workshop"](https://www.cureus.com/articles/107147-hands-on-practice-on-sustainable-simulators-in-the-context-of-training-for-rural-and-remote-practice-through-a-fundamental-skills-workshop). Technical Report. Cureus, Sep 2022, vol. 14(9), e28840, doi: 10.7759/cureus.28840
+
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). Healthcare Management Forum, SAGE Publications Inc, Aug 2022, doi: 10.1177/08404704221114961
 
 M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. Cureus, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
