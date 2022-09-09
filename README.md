@@ -114,7 +114,7 @@ The Ontario Trillium Scholarships (OTS) program is an initiative from the Ontari
 ## 💬 Languages
 
 **Portuguese**: Native<br>
-**English**: CLB 9+
+**English**: CLB 10+
 <br>
 <br>
 ## 👨‍💻 Volunteer Work
