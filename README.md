@@ -151,6 +151,8 @@ S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). Healthcare Management Forum, SAGE Publications Inc, Aug 2022, doi: 10.1177/08404704221114961
 
+B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://ssrn.com/abstract=4175991). Journal of Artificial Intelligence in Medicine (pre-print), Aug 2022, p.36, AIIM-D-22-01104. Available at SSRN: [https://ssrn.com/abstract=4175991](https://ssrn.com/abstract=4175991), doi: 10.2139/ssrn.4175991
+
 M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. Cureus, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
 
 B. Nguyen, **A. Torres**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/32240). JMIR Research Protocols, Feb. 2022, vol. 11(2), p. e32240, doi: 10.2196/32240
