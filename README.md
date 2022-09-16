@@ -147,6 +147,9 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 ## 📜 Publications & Talks
 
 ### Refereed Journal Publications
+
+N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The Exploration of Remote Simulation Strategies for the Acquisition of Psychomotor Skills in Surgery: a Pilot Randomized Controlled Trial"](https://www.researchsquare.com/article/rs-2054148/v1). Advances in Health Sciences Education, Springer, Sep. 2022, PREPRINT (Version 1) available at Research Square, doi: 10.21203/rs.3.rs-2054148/v1 [Under review]
+
 S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, C. Pereira, A. Dubrowski, ["Hands-On Practice on Sustainable Simulators in the Context of Training for Rural and Remote Practice Through a Fundamental Skills Workshop"](https://www.cureus.com/articles/107147-hands-on-practice-on-sustainable-simulators-in-the-context-of-training-for-rural-and-remote-practice-through-a-fundamental-skills-workshop). Technical Report. Cureus, Sep 2022, vol. 14(9), e28840, doi: 10.7759/cureus.28840
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). Healthcare Management Forum, SAGE Publications Inc, Aug 2022, doi: 10.1177/08404704221114961
