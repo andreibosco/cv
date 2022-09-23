@@ -247,11 +247,11 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 ## ⚛ Research Projects
 **Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
 Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defence grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
-  - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/)
+  - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic.](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/) 26 Aug, 2021
 
 **Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
 Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
-  - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/)
+  - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/) 30 Aug, 2020
 
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
 Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
@@ -259,7 +259,8 @@ Acting as researcher and developer of GEN, focusing on web development and apply
 
 **Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities** _(2020 - 2022)_<br>
 A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University. Researcher and developer of the technology components.
-  - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/)
+  - News article: [TeachingCity Oshawa highlights year five of innovative partnership.](https://www.oshawa.ca/en/news/teachingcity-oshawa-highlights-year-five-of-innovative-partnership.aspx) 22 Sep, 2022
+  - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/) 12 Mar, 2021
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
 Researcher and developer of software and hardware. Worked in implementing data fusion algorithms in a sensor network based on low-end hardware.
