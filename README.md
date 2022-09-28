@@ -148,13 +148,17 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ### Refereed Journal Publications
 
+⬦ indicates authors that contributed equally.
+
+C. W. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, D. Kenny, D. M. Campbell, L. Beavers, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Moral Distress Among Frontline Health Care Providers: A Feasibility Trial"](https://preprints.jmir.org/preprint/42813). _JMIR Serious Games_, (submitted), doi: 10.2196/42813 [Under review]
+
 N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The Exploration of Remote Simulation Strategies for the Acquisition of Psychomotor Skills in Surgery: a Pilot Randomized Controlled Trial"](https://www.researchsquare.com/article/rs-2054148/v1). _Advances in Health Sciences Education_, Springer, Sep. 2022, PREPRINT (Version 1) available at Research Square: https://www.researchsquare.com/article/rs-2054148/v1, doi: 10.21203/rs.3.rs-2054148/v1 [Under review]
 
 S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, C. Pereira, A. Dubrowski, ["Hands-On Practice on Sustainable Simulators in the Context of Training for Rural and Remote Practice Through a Fundamental Skills Workshop"](https://www.cureus.com/articles/107147-hands-on-practice-on-sustainable-simulators-in-the-context-of-training-for-rural-and-remote-practice-through-a-fundamental-skills-workshop). Technical Report. _Cureus_, Sep 2022, vol. 14(9), e28840, doi: 10.7759/cureus.28840
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). _Healthcare Management Forum_, SAGE Publications Inc, Aug 2022, doi: 10.1177/08404704221114961
 
-B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4175991). _Journal of Artificial Intelligence in Medicine_ (pre-print), Aug 2022, p.36, AIIM-D-22-01104. Available at SSRN: [https://ssrn.com/abstract=4175991](https://ssrn.com/abstract=4175991), doi: 10.2139/ssrn.4175991
+B. Nguyen⬦, **A. Torres⬦**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4175991). _Journal of Artificial Intelligence in Medicine_ (pre-print), Aug 2022, p.36, AIIM-D-22-01104. Available at SSRN: [https://ssrn.com/abstract=4175991](https://ssrn.com/abstract=4175991), doi: 10.2139/ssrn.4175991
 
 M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. _Cureus_, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
 
