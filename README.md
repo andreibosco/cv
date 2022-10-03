@@ -186,7 +186,7 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 <br>
 
 ### Refereed Conference and Workshop Proceedings (Full and Short Papers)
-C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, and A. Dubrowski,  International Educated Nurse-Centered Virtual Serious Game Framework. In: _The Thirteen IEEE International Conference on Information, Intelligence, Systems and Applications (IISA 2022)_, Online, July 18-20, 2022.
+C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, and A. Dubrowski, ["International Educated Nurse-Centered Virtual Serious Game Framework"](doi.org/10.1109/IISA56318.2022.9904347). In: _The Thirteen IEEE International Conference on Information, Intelligence, Systems and Applications (IISA 2022)_, Online, July 18-20, 2022, doi: 10.1109/IISA56318.2022.9904347
 
 **A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, and A. Dubrowski, ["A Scenario Editor to Create and Modify Virtual Simulations and Serious Games for Mental Health Education"](https://doi.org/10.1109/IISA52424.2021.9555531). In: _The Twelfth International Conference on Information, Intelligence, Systems and Applications (IISA 2021)_, Online, July 12-14, 2021, doi: 10.1109/IISA52424.2021.9555531
 
