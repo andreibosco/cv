@@ -222,6 +222,10 @@ K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, an
 
 ### Refereed Abstracts and Posters
 
+F. Pelletier, **A. Torres**, L. Meloche-Dumas, N. Guérard-Poirier, A. Kaviani, B. Kapralos, F. Mercier, A. Dubrowski, E Patocskai, ["The role of collaborative feedback and remote practice in the acquisition of suturing skills by medical students at Université de Montréal,"](https://www.canjsurg.ca/content/cjs/65/6_Suppl_1/S19.full.pdf) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 13-14, 2022, doi: 10.1503/cjs.014622
+
+F. Bénard, M. Habti, L. Meloche-Dumas, S. Bérubé, D. Cadoret, A. Arutiunian, Y. Papas, **A. Torres**, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, ["Efficacy testing of an affordable and realistic small bowel simulator for hand-sewn anastomosis,"](https://www.canjsurg.ca/content/cjs/65/6_Suppl_1/S19.full.pdf) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 13-14, 2022, doi: 10.1503/cjs.014622
+
 S. Siraj, M. Sivanathan, S. Abdo, J. Micallef, B. Gino, D. Butthu, K. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, A. Dubrowski, "The Acceptability of Three Dimensionally (3D) Printed Simulators in the Context of Training for Rural and Remote Practice: A Case Study of University and Not-for-Profit Collaboration." _2022 SIM Expo_, Toronto, Ontario, Canada, Oct 17-18, 2022. [To be presented]
 
 N. Guérard-Poirier, M. Beniey, L. Meloche-Dumas, **A. Torres,** B. Kapralos, M. Dhane, F. Mercier, A. Dubrowski, E. Patocskai, "Exploration of Remote Peer-to-Peer Learning in Preparation for Acquisition of Fundamental Surgical Skills: a Pilot Randomized Controlled Trial." _The 22nd International Meeting on Simulation in Healthcare (IMSH 2022)_, Los Angeles, California, USA. Jan. 15-19, 2022.
