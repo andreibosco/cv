@@ -153,6 +153,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). _Healthcare Management Forum_, SAGE Publications Inc, Jan 2023, vol. 36(1), pp. 21-25, doi: 10.1177/08404704221114961
 
+**A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, A. Dubrowski. "Moirai: A No-Code Virtual Serious Game Authoring Platform". _Virtual Worlds_, MDPI, 2022. [Accepted]
+
 C. W. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, D. Kenny, D. M. Campbell, L. Beavers, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Moral Distress Among Frontline Health Care Providers: A Feasibility Trial"](https://preprints.jmir.org/preprint/42813). _JMIR Serious Games_, (submitted), doi: 10.2196/42813 [Under review]
 
 N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The Exploration of Remote Simulation Strategies for the Acquisition of Psychomotor Skills in Surgery: a Pilot Randomized Controlled Trial"](https://www.researchsquare.com/article/rs-2054148/v1). _Advances in Health Sciences Education_, Springer, Sep. 2022, PREPRINT (Version 1) available at Research Square: https://www.researchsquare.com/article/rs-2054148/v1, doi: 10.21203/rs.3.rs-2054148/v1 [Under review]
