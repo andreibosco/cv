@@ -259,17 +259,27 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 
 ### Talks and Presentations
 
-**How to Build Microcredentials** @ 6th New Year; New Ideas - Driving Education through Technology into the Next Era (_Jan. 18 2023_)<br>
+**How to Build Microcredentials** @ 6th New Year; New Ideas - Driving Education through Technology into the Next Era (_Jan. 18, 2023_)<br>
 Hosted by Ontario Tech University and Ontario Shores Centre for Mental Health Sciences<br>
 Dr. Brenda Gamble, Dr. Adam Dubrowski and **Andrei Torres**
 
-**Micro-credential Presentation** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16 2022_)<br>
+**Micro-credential Presentation** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16, 2022_)<br>
 Hosted by MLT Micro-credential Team - Ontario Tech University
 Sandy Abdo and **Andrei Torres**<br>
 
-**Development, and Initial Testing of a Virtual Simulation Training Module to Teach Microtomy (Pecha Kucha)** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16 2022_)<br>
+**Development, and Initial Testing of a Virtual Simulation Training Module to Teach Microtomy (Pecha Kucha)** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16, 2022_)<br>
 Hosted by MLT Micro-credential Team - Ontario Tech University<br>
 **Andrei Torres**
+
+### Industry Liaison Activities
+**maxSIMhealth Research Projects** to Laerdal Medical (_Nov. 25, 2022_)<br>
+Hosted by maxSIMhealth and Ontario Tech University
+
+**maxSIMhealth Lab Tour** @ Norm Mackie - Mackie Moving Systems (_Nov. 11, 2022_)<br>
+Hosted by maxSIMhealth and Ontario Tech University
+
+**maxSIMhealth Lab Tour** @ E.P. Taylor Legacy Society Recognition Reception (_Nov. 4, 2022_)<br>
+Hosted by maxSIMhealth and Ontario Tech University
 <br>
 <br>
 ## ⚛ Research Projects
