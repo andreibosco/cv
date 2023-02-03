@@ -271,6 +271,22 @@ Sandy Abdo and **Andrei Torres**<br>
 Hosted by MLT Micro-credential Team - Ontario Tech University<br>
 **Andrei Torres**
 
+**Gamified Educational Network** @ 2021 CLUE Symposium (_Feb. 3, 2021_)<br>
+Hosted by NSERC CREATE Collaborative Learning of Usability Experiences (CLUE)<br>
+**Andrei Torres**
+
+**Visualizing Data in VR - Immersive Analytics Project** @ CLUE End-of-Internship Workshops (_Sep. 15, 2020_)<br>
+Hosted by NSERC CREATE Collaborative Learning of Usability Experiences (CLUE)<br>
+**Andrei Torres**
+
+**Working at Heights in VR - Managing Tasks to Achieve a Deadline** @ CLUE End-of-Internship Workshops (_Sep. 18, 2019_)<br>
+Hosted by NSERC CREATE Collaborative Learning of Usability Experiences (CLUE)<br>
+**Andrei Torres**
+
+**Working at Heights Virtual Reality Training - Asset Creation and Evaluation** @ 2019 CLUE Symposion (_May 15, 2019_)<br>
+Hosted by NSERC CREATE Collaborative Learning of Usability Experiences (CLUE) and IBM Design Canada<br>
+**Andrei Torres**
+
 ### Industry Liaison Activities
 **maxSIMhealth Research Projects** to Laerdal Medical (_Nov. 25, 2022_)<br>
 Hosted by maxSIMhealth and Ontario Tech University
@@ -280,6 +296,9 @@ Hosted by maxSIMhealth and Ontario Tech University
 
 **maxSIMhealth Lab Tour** @ E.P. Taylor Legacy Society Recognition Reception (_Nov. 4, 2022_)<br>
 Hosted by maxSIMhealth and Ontario Tech University
+
+**Working at Heights Project Demo** @ Black & McDonald (_Jul. 15, 2019_)<br>
+Hosted by Public Services Health & Safety Association (PSHSA)
 <br>
 <br>
 ## ⚛ Research Projects
