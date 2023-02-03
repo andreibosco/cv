@@ -257,10 +257,19 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 
 **A. Torres**, B. Kapralos, A. Uribe-Quevedo, E. Zea, A. Dubrowski, "A gamified educational network for collaborative learning". In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, Oct. 21-22, 2019.
 
-#### Talks and Presentations
-**6th New Year; New Ideas - Driving Education through Technology into the Next Era** @ Ontario Tech University and Ontario Shores Centre for Mental Health Sciences (_Jan. 18 2023_)<br>
-Dr. Brenda Gamble, Dr. Adam Dubrowski, **Andrei Torres**<br>
-How to Build Microcredentials
+### Talks and Presentations
+
+**How to Build Microcredentials** @ 6th New Year; New Ideas - Driving Education through Technology into the Next Era (_Jan. 18 2023_)<br>
+Hosted by Ontario Tech University and Ontario Shores Centre for Mental Health Sciences<br>
+Dr. Brenda Gamble, Dr. Adam Dubrowski and **Andrei Torres**
+
+**Micro-credential Presentation** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16 2022_)<br>
+Hosted by MLT Micro-credential Team - Ontario Tech University
+Sandy Abdo and **Andrei Torres**<br>
+
+**Development, and Initial Testing of a Virtual Simulation Training Module to Teach Microtomy (Pecha Kucha)** @ Transformative learning: What does it mean for Medical Laboratory Science? (_Oct. 16 2022_)<br>
+Hosted by MLT Micro-credential Team - Ontario Tech University<br>
+**Andrei Torres**
 <br>
 <br>
 ## ⚛ Research Projects
