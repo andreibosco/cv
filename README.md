@@ -155,8 +155,6 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 C. W. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, D. Kenny, D. M. Campbell, L. Beavers, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Moral Distress Among Frontline Health Care Providers: A Feasibility Trial"](https://preprints.jmir.org/preprint/42813). _JMIR Serious Games_, (submitted), doi: 10.2196/42813 [Under review]
 
-N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The Exploration of Remote Simulation Strategies for the Acquisition of Psychomotor Skills in Surgery: a Pilot Randomized Controlled Trial"](https://www.researchsquare.com/article/rs-2054148/v1). _Advances in Health Sciences Education_, Springer, Sep. 2022, PREPRINT (Version 1) available at Research Square: https://www.researchsquare.com/article/rs-2054148/v1, doi: 10.21203/rs.3.rs-2054148/v1 [Under review]
-
 #### Published
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). _Healthcare Management Forum_, SAGE Publications Inc, Jan 2023, vol. 36(1), pp. 21-25, doi: 10.1177/08404704221114961
@@ -258,6 +256,11 @@ S. Wahab, D. Smeeton, **A. Torres**, B. Kapralos, A. Dubrowski, "Application of 
 N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. Misheva, A. Dubrowski, F. Mercier, E. Patocskai, ["A Gamified Network for Surgical Education during COVID-19: A Randomized Controlled Trial,"](https://www.canjsurg.ca/content/cjs/63/6_Suppl_1/S61.full.pdf) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 29-30, 2020, doi: 10.1503/cjs.021920.
 
 **A. Torres**, B. Kapralos, A. Uribe-Quevedo, E. Zea, A. Dubrowski, "A gamified educational network for collaborative learning". In: _Proceedings of the 2019 SIM-one SIM Expo_, Montreal, Canada, Oct. 21-22, 2019.
+
+#### Talks and Presentations
+**6th New Year; New Ideas - Driving Education through Technology into the Next Era** @ Ontario Tech University and Ontario Shores Centre for Mental Health Sciences (_Jan. 18 2023_)<br>
+Dr. Brenda Gamble, Dr. Adam Dubrowski, **Andrei Torres**<br>
+How to Build Microcredentials
 <br>
 <br>
 ## ⚛ Research Projects
