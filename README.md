@@ -159,6 +159,8 @@ B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou,
 
 #### Published
 
+F. Pelletier, **A. Torres**, L. Meloche-Dumas, N. Guérard-Poirier, A. Kaviani, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai. ["The role of collaborative observational practice and feedback-discourse to promote remote acquisition of technical surgical skills"](https://www.sciencedirect.com/science/article/pii/S0022480423000495), _Journal of Surgical Research_, vol. 288, pp. 372-382, 2023, doi: 10.1016/j.jss.2023.02.006
+
 M. Habti, F. Bénard, L. Meloche-Dumas, S. Bérubé, D. Cadoret, A. Arutiunian, Y. Papas, **A. Torres**, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai. ["Hand Sewn Anastomosis Skill Acquisition and In Vivo Transfer Using 3D-Printed Small Bowel Simulator"](https://www.sciencedirect.com/science/article/abs/pii/S002248042300104X), _Journal of Surgical Research_, vol. 288, pp. 225–232, 2023, doi: 10.1016/j.jss.2023.03.004
 
 B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional education to support medical laboratory technologists’ participation in interprofessional collaborative practice within integrated healthcare models"](https://doi.org/10.1177/08404704221114961). _Healthcare Management Forum_, SAGE Publications Inc, Jan 2023, vol. 36(1), pp. 21-25, doi: 10.1177/08404704221114961
@@ -193,6 +195,9 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 <br>
 
 ### Refereed Conference and Workshop Proceedings (Full and Short Papers)
+
+B. Nguyen, **A. Torres**, A. Rueda, W. Sim, D. Campbell, W. Lou, B. Kapralos, L. Beavers, A. Dubrowski, S. Krishnan, and V. Bhat. "Digital Interventions to Reduce Distress Among Frontline Health Care Providers: Analysis of Self-Perceived Stress". In: _Proceedings of the 2023 45th Annual International Conference of the IEEE Engineering in Medicine \& Biology Conference (EMBC 2023)_, July 24-28, Sydney, Australia [To be presented].
+
 K. Clarke, **A. Torres**, M. J. P. Peixoto, B. Kapralos, and A. Dubrowski. "Mobile learning and simulation for the development of hands-on clinical skills". In: _Proceedings of the Mobile Learning 2023 International Conference (ML 2023)_, March 11-13, Lisbon, Portugal.
 
 **A. Torres**, M. Sivanathan, P. Mutombo, J. Micallef, S. Wahab, S. Abdo, V. Matheou, K. Wilcocks, L. Yanguez Franco, B. Kapralos, and A. Dubrowski. "The gamified educational network learning management system for medical education". In: _Proceedings of the 20th International Conference on Remote Engineering and Virtual Instrumentation (REV2023)_, pp. 1-8, March 1-3, 2023, Thessaloniki, Greece.
