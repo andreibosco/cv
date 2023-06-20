@@ -155,7 +155,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 C. W. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, D. Kenny, D. M. Campbell, L. Beavers, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Moral Distress Among Frontline Health Care Providers: A Feasibility Trial"](https://preprints.jmir.org/preprint/42813). _JMIR Serious Games_, (submitted), doi: 10.2196/42813 [Under review]
 
-B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4234115). _Computer Methods and Programs in Biomedicine_ (submitted). Available at SSRN: [https://ssrn.com/abstract=4234115](https://ssrn.com/abstract=4234115), doi: 10.2139/ssrn.4234115 [Under review]
+#### In Press
+B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, pp. 107645, 2023, doi: 10.1016/j.cmpb.2023.107645 [In Press]
 
 #### Published
 
