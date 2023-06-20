@@ -313,6 +313,18 @@ Hosted by Public Services Health & Safety Association (PSHSA)
 <br>
 <br>
 ## ⚛ Research Projects
+**Virtual educational toolkits to support the participation of medical laboratory professionals in interprofessional collaboration within a Patients’ Medical Home model of care** _(2023 - Current)_<br>
+Key to the delivery of timely, accurate and high-quality laboratory services is the collaboration between patients, primary care physicians, medical laboratory technologists (MLTs) and other health care professionals during the pre- and post-analytical phases of the laboratory process. Errors in the clinical laboratory process are directly related to patient safety. Inaccurate tests results can potentially lead to the delivery of incorrect treatment, delay in correct diagnosis, unnecessary treatment, treatment complications, and additional unnecessary diagnostic testing.
+
+Several challenges exist that impact the ability of MLTs to participate in interprofessional collaboration within Patients’ Medical Home (PMH) model of care. The development of interprofessional educational materials that are cognisant of these challenges provides the opportunity for MLTs to acquire the knowledge, skills, and attitudes necessary to participate in interprofessional collaboration, an approach central to PMH models of care.
+
+We are developing two virtual toolkits, one for MLTs, and another one for other health care professionals that will be accessible regardless of geographical location.
+  - Website: [Team Primary Care](https://www.teamprimarycare.ca)
+
+**Micro-credential badges: Virtual interprofessional education for Medical Laboratory learners** _(2022 - Current)_<br>
+Providing quality health care is a priority in all health care sectors. Interprofessional collaborative practice supports this priority. We at Ontario Tech University have developed micro-credentials to support interprofessional education for Medical Laboratory Professionals.
+  - Website: [Micro-credential badges: Virtual interprofessional education for Medical Laboratory (ML) learners](https://mlt.community/projects/microcredentials/)
+
 **Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
 Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defence grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
   - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic.](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/) 26 Aug, 2021
