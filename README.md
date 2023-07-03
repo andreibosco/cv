@@ -11,7 +11,7 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 **Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - current)_ <br>
 Developing and implementing two virtual toolkits and a serious gaming framework customizable by non-technical users, engaging with the research team to design, develop, evaluate and implementing said toolkits, and collaborating with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
 
-**Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Jan 2021 - Jan 2023)_ <br>
+**Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2020 - Jan 2023)_ <br>
 Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work.
 
 **Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Aug 2022)_ <br>
