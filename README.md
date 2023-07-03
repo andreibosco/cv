@@ -8,13 +8,16 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 ## 👷‍♂️ Professional Experience
 
-**Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Jan 2021 - Present)_ <br>
-Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work..
+**Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - current)_ <br>
+Developing and implementing two virtual toolkits and a serious gaming framework customizable by non-technical users, engaging with the research team to design, develop, evaluate and implementing said toolkits, and collaborating with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
+
+**Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Jan 2021 - Jan 2023)_ <br>
+Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work.
 
 **Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Aug 2022)_ <br>
 Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, focused on digital animation and 3D.
 
-**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Dec 2020)_ <br>
+**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Sep 2018 - Dec 2020)_ <br>
 Responsible for laboratory and tutorial sessions for undergrad courses in the [Game Development and Entrepreneurship](https://businessandit.ontariotechu.ca//undergraduate/bachelor-of-information-technology/game-development-and-entrepreneurship/index.php) program at the Faculty of Business and Information Technology (FBIT).
 
 **Intern** @ [Palomino Sys](https://www.palominosys.com/) _(Jan 2020 - Aug 2020)_ <br>
@@ -25,7 +28,7 @@ Explored immersive visualization in virtual and augmented reality based on retai
 _Internship part of the Collaborative Learning of Usability Experiences (CLUE) program_<br>
 Worked on a project to create a virtual reality application to be used as part of the working-at-heights training program. 
 
-**Developer and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
+**Webdesigner and Reseacher** @ [Federal University of Ceará](https://www.ufc.br/) _(Feb 2011 - Jan 2015)_ <br>
 Drafted, designed and implemented the specs for [Solar 2](https://github.com/wwagner33/solar) UI (Solar 2 is a Virtual Learning Environment created by UFC developed in Ruby on Rails), created the UI design of various mobile apps for Android and iOS and created and maintained UI tests for Solar 2.
 
 **CG Artist** @ [Studio PO](https://www.studiopo.tv/) _(Jan 2012 - Mar 2012)_ <br>
