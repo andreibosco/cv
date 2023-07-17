@@ -154,14 +154,11 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-#### Preprints
-
-C. W. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, D. Kenny, D. M. Campbell, L. Beavers, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Moral Distress Among Frontline Health Care Providers: A Feasibility Trial"](https://preprints.jmir.org/preprint/42813). _JMIR Serious Games_, (submitted), doi: 10.2196/42813 [Under review]
-
-#### In Press
-B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, pp. 107645, 2023, doi: 10.1016/j.cmpb.2023.107645 [In Press]
-
 #### Published
+
+N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The exploration of remote simulation strategies for the acquisition of psychomotor skills in medicine: a pilot randomized controlled trial"](https://link.springer.com/article/10.1007/s44217-023-00041-2), _Discover Education_, vol. 2, pp. 19, 2023, doi: 10.1007/s44217-023-00041-2
+
+B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, vol. 240, 2023, doi: 10.1016/j.cmpb.2023.107645
 
 F. Pelletier, **A. Torres**, L. Meloche-Dumas, N. Guérard-Poirier, A. Kaviani, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai. ["The role of collaborative observational practice and feedback-discourse to promote remote acquisition of technical surgical skills"](https://www.sciencedirect.com/science/article/pii/S0022480423000495), _Journal of Surgical Research_, vol. 288, pp. 372-382, 2023, doi: 10.1016/j.jss.2023.02.006
 
