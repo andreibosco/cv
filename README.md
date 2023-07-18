@@ -48,7 +48,7 @@ Assisted in the design of commercial architecture projects and created 3D render
 <br>
 ## 👨‍🏫 Academic Experience
 
-**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2018 - Present)_ <br>
+**Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Sep 2018 - Dec 2022)_ <br>
 Courses:
   - Modelling & Animation System II
   - Computer Architecture
@@ -57,7 +57,7 @@ Courses:
   - Game Design Workshop III
   - Industrial Design for Game Hardware
   
-**Assistant Professor _(on leave of absence)_** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Present)_ <br>
+**Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Aug 2022)_ <br>
 Courses:
   - Visual Communication I
   - Visual Communication II
