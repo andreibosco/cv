@@ -154,8 +154,6 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-#### Published
-
 N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The exploration of remote simulation strategies for the acquisition of psychomotor skills in medicine: a pilot randomized controlled trial"](https://link.springer.com/article/10.1007/s44217-023-00041-2), _Discover Education_, vol. 2, pp. 19, 2023, doi: 10.1007/s44217-023-00041-2
 
 B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, vol. 240, 2023, doi: 10.1016/j.cmpb.2023.107645
@@ -197,7 +195,9 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 
 ### Refereed Conference and Workshop Proceedings (Full and Short Papers)
 
-B. Nguyen, **A. Torres**, A. Rueda, W. Sim, D. Campbell, W. Lou, B. Kapralos, L. Beavers, A. Dubrowski, S. Krishnan, and V. Bhat. "Digital Interventions to Reduce Distress Among Frontline Health Care Providers: Analysis of Self-Perceived Stress". In: _Proceedings of the 2023 45th Annual International Conference of the IEEE Engineering in Medicine \& Biology Conference (EMBC 2023)_, July 24-28, Sydney, Australia [To be presented].
+B. Nguyen, **A. Torres**, A. Rueda, W. Sim, D. Campbell, W. Lou, B. Kapralos, L. Beavers, A. Dubrowski, S. Krishnan, and V. Bhat. ["Digital Interventions to Reduce Distress Among Frontline Health Care Providers: Analysis of Self-Perceived Stress"](https://arinex.com.au/EMBC/pdf/full-paper_30.pdf). In: _Proceedings of the 2023 45th Annual International Conference of the IEEE Engineering in Medicine \& Biology Conference (EMBC 2023)_, July 24-28, Sydney, Australia.
+
+C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, and A. Dubrowski, ["International Educated Nurses' Co-Design of a Virtual Serious Game"](https://library.iated.org/view/DASILVA2023INT). In: _Proceedings of the 15th International Conference on Education and New Learning Technologies (EDULEARN23)_, July 3-5, 2023, Palma, Spain, pp. 5330-5336, doi: 10.21125/edulearn.2023.1402
 
 K. Clarke, **A. Torres**, M. J. P. Peixoto, B. Kapralos, and A. Dubrowski. "Mobile learning and simulation for the development of hands-on clinical skills". In: _Proceedings of the Mobile Learning 2023 International Conference (ML 2023)_, March 11-13, Lisbon, Portugal.
 
