@@ -154,6 +154,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
+C. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, L. Beavers, D. Campbell, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat. ["Digital Interventions for Stress Among Frontline Health Care Providers: Results from a Pilot Feasibility Cohort Trial"](https://doi.org/10.2196/42813), _JMIR Serious Games_, doi: 10.2196/42813 [in press]
+
 N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The exploration of remote simulation strategies for the acquisition of psychomotor skills in medicine: a pilot randomized controlled trial"](https://link.springer.com/article/10.1007/s44217-023-00041-2), _Discover Education_, vol. 2, pp. 19, 2023, doi: 10.1007/s44217-023-00041-2
 
 B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, vol. 240, 2023, doi: 10.1016/j.cmpb.2023.107645
