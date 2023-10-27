@@ -8,6 +8,9 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 ## 👷‍♂️ Professional Experience
 
+**Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca)_(Sept 2023 - current)_ <br>
+Conducting the course Game Development Fundamentals as part of the  Bachelor of Technology (Software Development) program, leading lectures and laboratory sessions on designing and implementing games using the Unreal game engine.
+
 **Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - current)_ <br>
 Developing and implementing two virtual toolkits and a serious gaming framework customizable by non-technical users, engaging with the research team to design, develop, evaluate and implementing said toolkits, and collaborating with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
 
@@ -47,6 +50,10 @@ Assisted in the design of commercial architecture projects and created 3D render
 <br>
 <br>
 ## 👨‍🏫 Academic Experience
+
+**Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca) <br>
+Couses:
+  - Game Development Fundamentals
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) <br>
 Courses:
