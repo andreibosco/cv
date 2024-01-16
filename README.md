@@ -8,14 +8,14 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 ## 👷‍♂️ Professional Experience
 
-**Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca)_(Sept 2023 - current)_ <br>
-Conducting the course Game Development Fundamentals as part of the  Bachelor of Technology (Software Development) program, leading lectures and laboratory sessions on designing and implementing games using the Unreal game engine.
-
 **Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - current)_ <br>
 Developing and implementing two virtual toolkits and a serious gaming framework customizable by non-technical users, engaging with the research team to design, develop, evaluate and implementing said toolkits, and collaborating with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
 
+**Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca)_(Sep 2023 - Dec 2023)_ <br>
+Conducted the course Game Development Fundamentals as part of the Bachelor of Technology (Software Development) program, led lectures and laboratory sessions, following a hyflex approach, on designing and implementing games using the Unreal game engine.
+
 **Graduate Research Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Aug 2020 - Jan 2023)_ <br>
-Conducting research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also providing support to undergraduate and graduate students in their research work.
+Conducted research studies related to gamification, experiential learning, virtual simulation, and learning management systems, and also provided support to undergraduate and graduate students in their research work.
 
 **Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) _(Jan 2015 - Aug 2022)_ <br>
 Faculty member of the Digital Systems and Media (Sistemas e Mídias Digitais - SMD) program, focused on digital animation and 3D.
@@ -161,9 +161,9 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-C. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, L. Beavers, D. Campbell, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat. ["Digital Interventions for Stress Among Frontline Health Care Providers: Results from a Pilot Feasibility Cohort Trial"](https://doi.org/10.2196/42813), _JMIR Serious Games_, doi: 10.2196/42813 [in press]
+C. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, L. Beavers, D. Campbell, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat. ["Digital Interventions for Stress Among Frontline Health Care Workers: Results From a Pilot Feasibility Cohort Trial"](https://doi.org/10.2196/42813), _JMIR Serious Games_, Jan. 2024, vol. 12:e42813, doi: 10.2196/42813
 
-N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The exploration of remote simulation strategies for the acquisition of psychomotor skills in medicine: a pilot randomized controlled trial"](https://link.springer.com/article/10.1007/s44217-023-00041-2), _Discover Education_, vol. 2, pp. 19, 2023, doi: 10.1007/s44217-023-00041-2
+N. Guérard-Poirier, L. Meloche-Dumas, M. Beniey, **A. Torres**, B. Kapralos, M. Dhane, F. Mercier, R. Younan, A. Dubrowski, E. Patocskai. ["The Exploration of Remote Simulation Strategies for the Acquisition of Psychomotor Skills in Medicine: a Pilot Randomized Controlled Trial"](https://link.springer.com/article/10.1007/s44217-023-00041-2), _Discover Education_, vol. 2, pp. 19, 2023, doi: 10.1007/s44217-023-00041-2
 
 B. Nguyen, **A. Torres**, C. Espinola, W. Sim, D. Kenny, D. M. Campbell, W. Lou, B. Kapralos, L. Beavers, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Development of a Data-driven Digital Phenotype Profile of Distress Experience of Healthcare Workers during COVID-19 Pandemic"](https://doi.org/10.1016/j.cmpb.2023.107645). _Computer Methods and Programs in Biomedicine_, vol. 240, 2023, doi: 10.1016/j.cmpb.2023.107645
 
