@@ -161,9 +161,9 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-**A. Torres**, B. Kapralos, and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [in press]
+**A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [in press]
 
-**A. Torres**, B. Nguyen, B. Kapralos, S. Krishnan, D. M. Campbell, L. Beavers, A. Dubrowski, V. Bhat. "Development and Implementation of a Stress Monitoring Paradigm Using Virtual Reality Simulation During the COVID-19 Pandemic", Technical Report, _Cureus_, [in press]
+**A. Torres**, B. Nguyen, B. Kapralos, S. Krishnan, D. M. Campbell, L. Beavers, A. Dubrowski and V. Bhat, ["Development and Implementation of a Stress Monitoring Paradigm Using Virtual Reality Simulation During the COVID-19 Pandemic,"](https://doi.org/10.7759/cureus.53450) Technical Report, _Cureus_, Feb. 2024, vol. 16(2): e53450, doi: 10.7759/cureus.53450
 
 C. Espinola⬦, B. Nguyen⬦, **A. Torres⬦**, W. Sim, A. Rueda, L. Beavers, D. Campbell, H. Jung, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat. ["Digital Interventions for Stress Among Frontline Health Care Workers: Results From a Pilot Feasibility Cohort Trial"](https://doi.org/10.2196/42813), _JMIR Serious Games_, Jan. 2024, vol. 12:e42813, doi: 10.2196/42813
 
@@ -179,9 +179,9 @@ B. Gamble, A. Dubrowski, **A. Torres**, M. Short, ["Virtual interprofessional ed
 
 **A. Torres**, B. Kapralos, C. da Silva, E. Peisachovich, A. Dubrowski. ["Moirai: A No-Code Virtual Serious Game Authoring Platform"](https://doi.org/10.3390/virtualworlds1020009). _Virtual Worlds_, MDPI, Dec 2022, vol. 1(2), pp. 147-171, doi: 10.3390/virtualworlds1020009 
 
-S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, C. Pereira, A. Dubrowski, ["Hands-On Practice on Sustainable Simulators in the Context of Training for Rural and Remote Practice Through a Fundamental Skills Workshop"](https://www.cureus.com/articles/107147-hands-on-practice-on-sustainable-simulators-in-the-context-of-training-for-rural-and-remote-practice-through-a-fundamental-skills-workshop). Technical Report. _Cureus_, Sep 2022, vol. 14(9), e28840, doi: 10.7759/cureus.28840
+S. Siraj, M. Sivanathan, S. Abdo S, J. Micallef, B. Gino, D. Buttu, K. M. Clarke, M. Mnaymneh, **A. Torres**, G. Brock, C. Pereira, A. Dubrowski, ["Hands-On Practice on Sustainable Simulators in the Context of Training for Rural and Remote Practice Through a Fundamental Skills Workshop"](https://www.cureus.com/articles/107147-hands-on-practice-on-sustainable-simulators-in-the-context-of-training-for-rural-and-remote-practice-through-a-fundamental-skills-workshop). Technical Report. _Cureus_, Sep 2022, vol. 14(9): e28840, doi: 10.7759/cureus.28840
 
-M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. _Cureus_, May 2022, vol. 14(5), e25481, doi: 10.7759/cureus.25481
+M. Sivanathan, J. Micallef, K. M. Clarke, B. Gino, S. Joshi, S. Abdo, D. Buttu, M. Mnaymneh, S. Siraj, **A. Torres**, G. Brock, D. Button, C. Pereira, A. Dubrowski. ["The Development and Initial End-Point User Feedback of a 3D-Printed Adult Proximal Tibia IO Simulator"](https://doi.org/10.7759/cureus.25481). Technical Report. _Cureus_, May 2022, vol. 14(5): e25481, doi: 10.7759/cureus.25481
 
 B. Nguyen⬦, **A. Torres⬦**, W. Sim, D. Kenny, L. Beavers, D. Campbell, W. Lou, B. Kapralos, E. Peter, A. Dubrowski, S. Krishnan, V. Bhat, ["Digital Interventions to Reduce Distress Among Health Care Providers at the Frontline: Protocol for a Feasibility Trial"](https://doi.org/10.2196/32240). _JMIR Research Protocols_, Feb. 2022, vol. 11(2), p. e32240, doi: 10.2196/32240
 
