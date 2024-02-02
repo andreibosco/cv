@@ -161,7 +161,7 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-**A. Torres**, B. Kapralos, A. Dubrowski. "Examining the Usability of the Moirai Serious Game Authoring Platform", _IEEE Transactions on Games_, [in press]
+**A. Torres**, B. Kapralos, and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [in press]
 
 **A. Torres**, B. Nguyen, B. Kapralos, S. Krishnan, D. M. Campbell, L. Beavers, A. Dubrowski, V. Bhat. "Development and Implementation of a Stress Monitoring Paradigm Using Virtual Reality Simulation During the COVID-19 Pandemic", Technical Report, _Cureus_, [in press]
 
