@@ -161,6 +161,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
+A. K. Jolly, D. Selvarajah, J. Micallef, **A. Torres** and D. Button, ["Adapting the Gamified Educational Networking Online Learning Management System to Test a Decentralized Simulation-Based Education Model to Instruct Paramedics-in-Training on the Emergency Intraosseous Access and Infusion Skill,"](https://doi.org/10.7759/cureus.55493) _Cureus_, Mar. 2024, vol. 16(3): e55493. doi:10.7759/cureus.55493
+
 **A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [in press]
 
 **A. Torres**, B. Nguyen, B. Kapralos, S. Krishnan, D. M. Campbell, L. Beavers, A. Dubrowski and V. Bhat, ["Development and Implementation of a Stress Monitoring Paradigm Using Virtual Reality Simulation During the COVID-19 Pandemic,"](https://doi.org/10.7759/cureus.53450) Technical Report, _Cureus_, Feb. 2024, vol. 16(2): e53450, doi: 10.7759/cureus.53450
