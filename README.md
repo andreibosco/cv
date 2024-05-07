@@ -161,9 +161,9 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
-J. Martin, A. Rueda, G. H. Lee, V. K. Tassone, H. Park, M. Ivanov, B. Darnell, L. Beavers, D. M. Campbell, B. Nguyen, **A. Torres**, H. Jung, W. Lou, A. Nazarov, A. Ashbaugh, B. Kapralos, B. Litz, R. Jetly, A. Dubrowski, G. Strudwick, S. Krishnan and V. Bhat, "Digital Interventions to Understand and Mitigate Stress Response: Protocol for Process & Content Evaluation of a Cohort Study," _JMIR Research Protocols_, doi:10.2196/54180 [in press]
+**A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [early access]
 
-**A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, doi: 10.1109/TG.2024.3360918 [in press]
+J. Martin, A. Rueda, G. H. Lee, V. K. Tassone, H. Park, M. Ivanov, B. C. Darnell, L. Beavers, D. M. Campbell, B. Nguyen, **A. Torres**, H. Jung, W. Lou, A. Nazarov, A. Ashbaugh, B. Kapralos, B. Litz, R. Jetly, A. Dubrowski, G. Strudwick, S. Krishnan and V. Bhat, ["Digital Interventions to Understand and Mitigate Stress Response: Protocol for Process and Content Evaluation of a Cohort Study,"](https://doi.org/10.2196/54180) _JMIR Research Protocols_, May 2024, vol. 13:e54180, doi: 10.2196/54180
 
 A. K. Jolly, D. Selvarajah, J. Micallef, **A. Torres** and D. Button, ["Adapting the Gamified Educational Networking Online Learning Management System to Test a Decentralized Simulation-Based Education Model to Instruct Paramedics-in-Training on the Emergency Intraosseous Access and Infusion Skill,"](https://doi.org/10.7759/cureus.55493) _Cureus_, Mar. 2024, vol. 16(3): e55493. doi:10.7759/cureus.55493
 
