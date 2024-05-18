@@ -212,7 +212,7 @@ A. R. da Rocha, F. R. C. Sousa, **A. Torres**, and J. N. De Souza, ["Internet of
 
 ### Refereed Conference and Workshop Proceedings (Full and Short Papers)
 
-B. Nguyen, **A. Torres**, A. Rueda, W. Sim, D. Campbell, W. Lou, B. Kapralos, L. Beavers, A. Dubrowski, S. Krishnan, and V. Bhat. ["Digital Interventions to Reduce Distress Among Frontline Health Care Providers: Analysis of Self-Perceived Stress"](https://arinex.com.au/EMBC/pdf/full-paper_30.pdf). In: _Proceedings of the 2023 45th Annual International Conference of the IEEE Engineering in Medicine \& Biology Conference (EMBC 2023)_, July 24-28, Sydney, Australia.
+B. Nguyen, **A. Torres**, A. Rueda, W. Sim, D. Campbell, W. Lou, B. Kapralos, L. Beavers, A. Dubrowski, S. Krishnan, and V. Bhat. ["Digital Interventions to Reduce Distress Among Frontline Health Care Providers: Analysis of Self-Perceived Stress"](https://doi.org/10.1109/EMBC40787.2023.10340958). In: _Proceedings of the 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Conference (EMBC 2023)_, July 24-28, Sydney, Australia, doi: 10.1109/EMBC40787.2023.10340958
 
 C. da Silva, **A. Torres**, B. Kapralos, E. Peisachovich, C. Anyinam, S. Coffey, L. Graham, and A. Dubrowski, ["International Educated Nurses' Co-Design of a Virtual Serious Game"](https://library.iated.org/view/DASILVA2023INT). In: _Proceedings of the 15th International Conference on Education and New Learning Technologies (EDULEARN23)_, July 3-5, 2023, Palma, Spain, pp. 5330-5336, doi: 10.21125/edulearn.2023.1402
 
