@@ -254,6 +254,9 @@ K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, an
 <br>
 
 ### Refereed Abstracts and Posters
+
+W. Sun, J. Calver, **A. Torres**, L. Martignetti, M. Lemonde and A. Dubrowski, "Using Micro-credential to Educate Long-Term Care Staff to Provide Palliative Care for People with Dementia: A Gamified Educational Network (GEN)," _2024 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Funchal, Portugal, Aug 7-9, 2024. [to be presented]
+
 F. Pelletier, **A. Torres**, L. Meloche-Dumas, N. Guérard-Poirier, A. Kaviani, B. Kapralos, F. Mercier, A. Dubrowski, E Patocskai, ["The role of collaborative feedback and remote practice in the acquisition of suturing skills by medical students at Université de Montréal,"](https://www.proquest.com/openview/f7c09576d37a4259b53974550b8766c4/1) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 13-14, 2022, doi: 10.1503/cjs.014622
 
 F. Bénard, M. Habti, L. Meloche-Dumas, S. Bérubé, D. Cadoret, A. Arutiunian, Y. Papas, **A. Torres**, B. Kapralos, F. Mercier, A. Dubrowski, E. Patocskai, ["Efficacy testing of an affordable and realistic small bowel simulator for hand-sewn anastomosis,"](https://www.proquest.com/openview/23ac08ba7dd105b2ff33cb0befcece82/1) _Canadian Conference for the Advancement of Surgical Education (C-CASE)_, Oct. 13-14, 2022, doi: 10.1503/cjs.014622
