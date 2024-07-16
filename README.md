@@ -8,8 +8,11 @@ _PhD Student / Assistant Professor / Researcher / Developer, from Brazil into th
 
 ## 👷‍♂️ Professional Experience
 
-**Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - current)_ <br>
-Developing and implementing two virtual toolkits and a serious gaming framework customizable by non-technical users, engaging with the research team to design, develop, evaluate and implementing said toolkits, and collaborating with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
+**VR Technology Developer - Mitacs Accelerate Fellowship** @ [Ontario Shores Centre for Mental Health Sciences](http://vrsimcarers.ca) _(Mar 2024 - current)_ <br>
+Conducting activities in the VR-SIM Carers project involving the development of 3D characters and animations, supporting the development of virtual reality scenarios in Unreal Engine, and exploring technologies to enhance the development flow, deployment and user experience.
+
+**Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - Mar 2024)_ <br>
+Developed and implemented two virtual toolkits and a serious gaming framework customizable by non-technical users. Engaged with the research team to design, develop, evaluate and implementing said toolkits, and collaborated with the 'Team: Primary Care' group, as a member of one of the 35 teams funded by the Canadian government to modernize primary care across Canada.
 
 **Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca) _(Sep 2023 - Dec 2023)_ <br>
 Conducted the course Game Development Fundamentals as part of the Bachelor of Technology (Software Development) program, led lectures and laboratory sessions, following a hyflex approach, on designing and implementing games using the Unreal game engine.
@@ -100,6 +103,10 @@ Member of the Steering Comittee.<br>
 <br>
 
 ## 🏆 Grants, honors & awards
+
+**Mitacs Accelerate Fellowship** @ Ontario Shores Centre for Mental Health Sciences _(March 2024 - October 2024)_<br>
+_$30,000_ - **A. Torres**<br>
+VR-SIM Carers authoring platform (VR-CAP)
 
 **eCampus Ontario - Virtual Learning Strategy - Digital Content** @ Government of Ontario _(Jul 2022 - Jan 2023)_<br>
 _$70,348_ - W. H. Gage, C. da Silva, B. Kapralos, A. Dubrowski, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, **A. Torres**, F. Singh<br>
