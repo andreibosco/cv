@@ -266,7 +266,11 @@ K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, an
 
 Z. Hosseini, **A. Torres**, D. Smeeton, B. Gamble, B. Kapralos, and A. Dubrowski, "Virtual Simulation is More Effective than Didactic Lectures in Preparing Medical Laboratory Students for Simulation-Based Microtomy Training: Pilot Randomized Control Trial," _2024 SIM Expo_, Banff, Alberta, Canada, Nov 25-26, 2024. [to be presented]
 
-W. Sun, J. Calver, **A. Torres**, L. Martignetti, M. Lemonde and A. Dubrowski, "Using Micro-credential to Educate Long-Term Care Staff to Provide Palliative Care for People with Dementia: A Gamified Educational Network (GEN)," _2024 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Funchal, Portugal, Aug 7-9, 2024. [to be presented]
+**A. Torres**, M. Chiu, C. Craven, B. Kapralos, A. Dubrowski, M. Smith, and A. Burhan, "Building a Virtual Reality Platform for Dementia Caregivers Simulation-Based Skills-Training: A Technology Developer’s Perspective on Lessons Learned," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024. [to be presented]
+
+R. Al-bayati, K. Clarke, M. Chiu, **A. Torres**, A. Dubrowski, B. Kapralos, M. Smith, and A. Burhan, "Empowering Dementia Caregivers with a Virtual Reality (VR) Simulation-Based Skills-Building Platform 'VR-SIM Carers' - Knowledge Users’ Perspectives," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024. [to be presented]
+
+W. Sun, J. Calver, **A. Torres**, L. Martignetti, M. Lemonde and A. Dubrowski, "Using Micro-credential to Educate Long-Term Care Staff to Provide Palliative Care for People with Dementia: A Gamified Educational Network (GEN)," _2024 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Funchal, Portugal, Aug 7-9, 2024.
 
 S. Abdo, S. Siraj, B. Barth, P. Calverley, K. Clarke, K. Gamble, B. Kapralos, B. Kohain, M. Short, **A. Torres**, B. Gamble, and A. Dubrowski, "Developing Virtual Interprofessional Education Micro-Credential Modules for Medical Laboratory Learners using Elaboration Theory," _2023 SIM Expo_, Ottawa, Ontario, Canada, Dec 11-12, 2023.
 
