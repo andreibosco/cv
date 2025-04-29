@@ -107,7 +107,6 @@ Member of the Steering Comittee.<br>
 ## 🏆 Grants, honors & awards
 
 **BHCare Postdoctoral Trainee Award** by The Brain Health Care (BHCare) Training Platform, funded by the Canadian Institutes of Health Research (CIHR)_(April 2025 - April 2026)_<br>
-Brain Health Care (BHCare) Postdoctoral Trainee Award. Funded by the Canadian Institutes of Health Research (CIHR) and Ontario Shores Centre for Mental Health Sciences.
 _$22,500_ - **A. Torres**<br>
 Dementia Caregivers Skills Training Through Virtual Reality Simulation (VR-SIM Carers)
 
