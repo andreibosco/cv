@@ -1,6 +1,6 @@
-# Andrei B. B. Torres
+# Dr. Andrei B. B. Torres
 
-_PhD Student / Assistant Professor / Researcher / Developer, from Brazil into the world_
+_PhD in Computer Science / Researcher / Full-stack Developer / (Former) Professor, from Brazil into the world_
 
 [Email](mailto:hi@andreitorres.tech) / [ResearchGate](https://www.researchgate.net/profile/Andrei_Torres) / [Google Scholar](https://scholar.google.com.br/citations?user=xQ74CokAAAAJ) / [ORCID](https://orcid.org/0000-0003-2334-1919) / [LinkedIn](https://www.linkedin.com/in/andreibosco/) / [Github](https://github.com/andreibosco/) / <a rel="me" href="https://bolha.us/@andreitorres">Mastodon</a> / [Twitter](https://twitter.com/andreibosco/)
 <br>
@@ -88,14 +88,16 @@ Member of the Steering Comittee.<br>
 <br>
 ## 🎓 Education
 
-**PhD (Candidate; Expected completion July 2022)** in Computer Science<br>
-[OntarioTech University](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) - Oshawa, Ontario, Canada _(Aug 2018 - Aug 2022)_<br>
-  - **Research Topics:** Virtual and Augmented Reality, Serious Games, Gamification, Virtual Simulation
+**Doctor of Philosophy** in Computer Science<br>
+[OntarioTech University](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) - Oshawa, Ontario, Canada _(Sep 2018 - Mar 2025)_<br>
+  - **Thesis:** Interdisciplinary Collaboration Towards Developing Platforms for Simulation-Based Learning: Moirai - No-code Virtual Serious Game Authoring Platform - and the GEN - Gamified Educational Network
+  - **Concentration:** Digital media
+  - **Research Topics:** Serious games, no-code, authoring platform, learning management system, and experiential learning
 
 **Master of Engineering** in Teleinformatics Engineering<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Feb 2015 - Jul 2017)_<br>
-  - **Field:** Signals and Systems
   - **Dissertation:** Multilevel Data Fusion for Internet of Things in Precision Agriculture
+  - **Field:** Signals and Systems
  
 **Bachelor in Architecture** in Architecture and Urbanism<br>
 [Federal University of Ceará](http://ppgeti.ufc.br/) - Fortaleza, Ceará, Brazil _(Aug 2003 - Dec 2011)_<br>
@@ -104,27 +106,32 @@ Member of the Steering Comittee.<br>
 
 ## 🏆 Grants, honors & awards
 
-**Mitacs Accelerate Fellowship** @ Ontario Shores Centre for Mental Health Sciences _(March 2024 - October 2024)_<br>
+**BHCare Postdoctoral Trainee Award** by The Brain Health Care (BHCare) Training Platform, funded by the Canadian Institutes of Health Research (CIHR)_(April 2025 - April 2026)_<br>
+Brain Health Care (BHCare) Postdoctoral Trainee Award. Funded by the Canadian Institutes of Health Research (CIHR) and Ontario Shores Centre for Mental Health Sciences.
+_$22,500_ - **A. Torres**<br>
+Dementia Caregivers Skills Training Through Virtual Reality Simulation (VR-SIM Carers)
+
+**Mitacs Accelerate Fellowship** by Ontario Shores Centre for Mental Health Sciences _(March 2024 - October 2024)_<br>
 _$30,000_ - **A. Torres**<br>
 VR-SIM Carers authoring platform (VR-CAP)
 
-**eCampus Ontario - Virtual Learning Strategy - Digital Content** @ Government of Ontario _(Jul 2022 - Jan 2023)_<br>
+**eCampus Ontario - Virtual Learning Strategy - Digital Content** by The Government of Ontario _(Jul 2022 - Jan 2023)_<br>
 _$70,348_ - W. H. Gage, C. da Silva, B. Kapralos, A. Dubrowski, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, **A. Torres**, F. Singh<br>
 Palliative care in Long-term Care: A Virtual Serious Game
 
-**eCampus Ontario - Virtual Learning Strategy - Digital Content** @ Government of Ontario _(May 2021 - Feb 2022)_<br>
+**eCampus Ontario - Virtual Learning Strategy - Digital Content** by The Government of Ontario _(May 2021 - Feb 2022)_<br>
 _$77,396_ - C. da Silva, B. Kapralos, A. Dubrowski, **A. Torres**, S. Coffey, C. Anyinam, L. Graham, E. Peisachovich, G. Maheux-Pelletier<br>
 International Educated Nurse-Centered Virtual Serious Game
 
-**Social Sciences and Humanities Research Council Small Grants Program** @ Ontario Tech University _(Mar 2021 - Mar 2022)_<br>
+**Social Sciences and Humanities Research Council Small Grants Program** by Ontario Tech University _(Mar 2021 - Mar 2022)_<br>
 _$6,914_ - A. Dubrowski, B. Kapralos, **A. Torres**<br>
 Enhancing Educators' Experience with a Collaborative Learning Management System (GEN-LMS)
 
-**Teaching City Grant** @ City of Oshawa _(Aug 2020 - Jul 2021)_<br>
+**Teaching City Grant** by The City of Oshawa _(Aug 2020 - Jul 2021)_<br>
 _$20,000_ - A. Dubrowski, B. Kapralos, P. Mutombo, **A. Torres**<br>
 Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities.
 
-**Ontario Trillium Scholarship (OTS)** @ Government of Ontario _(Aug 2018 - Aug 2022)_<br>
+**Ontario Trillium Scholarship (OTS)** by The Government of Ontario _(Aug 2018 - Aug 2022)_<br>
 _$40,066 yearly_ - **A. Torres**<br>
 The Ontario Trillium Scholarships (OTS) program is an initiative from the Ontario government to attract more of the best qualified international students to Ontario for doctoral studies.
 <br>
@@ -351,41 +358,83 @@ Hosted by Public Services Health & Safety Association (PSHSA)
 <br>
 <br>
 ## ⚛ Research Projects
-**Virtual educational toolkits to support the participation of medical laboratory professionals in interprofessional collaboration within a Patients’ Medical Home model of care** _(2023 - Current)_<br>
-Key to the delivery of timely, accurate and high-quality laboratory services is the collaboration between patients, primary care physicians, medical laboratory technologists (MLTs) and other health care professionals during the pre- and post-analytical phases of the laboratory process. Errors in the clinical laboratory process are directly related to patient safety. Inaccurate tests results can potentially lead to the delivery of incorrect treatment, delay in correct diagnosis, unnecessary treatment, treatment complications, and additional unnecessary diagnostic testing.
+**Dementia Caregivers Skill Training through Virtual Reality Simulation (VR-SIM Carers)** _(2024-current)_<br>
+_Role:_ VR Technology Developer<br>
+_Description:_ VR-SIM Carers is a Collaborative Research and Development initiative that aims to co-design a virtual reality (VR) simulation training environment for dementia caregivers. This training environment will allow caregivers to become acquainted with the realities of caregiving while also safely practising communication and behavioural management for people with dementia.
+  - Website: [VR-SIM Carers](rhttps://www.vrsimcarers.ca/)
 
-Several challenges exist that impact the ability of MLTs to participate in interprofessional collaboration within Patients’ Medical Home (PMH) model of care. The development of interprofessional educational materials that are cognisant of these challenges provides the opportunity for MLTs to acquire the knowledge, skills, and attitudes necessary to participate in interprofessional collaboration, an approach central to PMH models of care.
-
-We are developing two virtual toolkits, one for MLTs, and another one for other health care professionals that will be accessible regardless of geographical location.
-  - Website: [Team Primary Care](https://www.teamprimarycare.ca)
-
-**Micro-credential badges: Virtual interprofessional education for Medical Laboratory learners** _(2022 - Current)_<br>
-Providing quality health care is a priority in all health care sectors. Interprofessional collaborative practice supports this priority. We at Ontario Tech University have developed micro-credentials to support interprofessional education for Medical Laboratory Professionals.
-  - Website: [Micro-credential badges: Virtual interprofessional education for Medical Laboratory (ML) learners](https://mlt.community/projects/microcredentials/)
-
-**Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - Current)_<br>
-Interdisciplinary project in partnership with members of Ryerson University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defence grant. Acting as researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.
-  - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic.](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/) 26 Aug, 2021
-
-**Person-Centered Serious Games for Mental Health Education** _(2020 - Current)_<br>
-Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an NSERC grant. Acting as researcher and developer creating the 3D assets and dialogue editor and player.
-  - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/) 30 Aug, 2020
+**Moirai: A No-code Virtual Serious Game Authoring Platform** _(2019-current)_<br>
+_Role:_ Researcher and developer of GEN, focusing on web development and the application of gamification concepts.<br>
+_Description:_ Moirai is a no-code platform to create or modify serious games that are virtual simulations focusing on decisions and communication skills development. Through Moirai, content creators (e.g., educators) can develop a serious game that follows one of the following structures: linear, branched, or pseudo-branched.
+- Website: [Moirai](https://www.moirai.tech)
 
 **GEN: Gamified Educational Network** _(2018 - Current)_<br>
-Acting as researcher and developer of GEN, focusing on web development and applying gamification concepts.
+_Role:_ Researcher and developer of GEN, focusing on web development and the application of gamification concepts.<br>
+_Description:_ The GEN (Gamified Educational Network) is a virtual learning management system that relies on principles of active observational practice, sharing of videos, and peer-to-peer, expert facilitated feedback.
+  - Website: [GEN](https://www.maxsimgen.com)
   - Video: [GEN features demo.](https://youtu.be/6GvnNAQNWl8)
 
+**Could Digital Interventions Help Understand And _Flatten The Curve_ Of Distress Due To Moral Injury Among Health Care Workers During The COVID Pandemic: A Pilot Study** _(2021 - 2024)_<br>
+_Role (2022-2024):_ Provide support and guidance on the development of the updated virtual reality scenarios.<br>
+_Role (2021):_ Researcher and developer creating virtual reality scenario, dialogues, as well as performing experiment sessions and collecting data.<br>
+_Description:_ Interdisciplinary project in partnership with members of Toronto Metropolitan University, University of Colorado, St. Michael's Hospital, Unity Health Toronto, University of Toronto, funded by a Department of National Defence grant.
+  - News article: [Virtual reality helps unmask impact of moral distress on health-care workers during the pandemic.](https://unityhealth.to/2021/08/vr-moral-distress-pandemic/) 26 Aug, 2021
+  - Video: [Virtual Reality Scenario demo](https://youtu.be/-mLzqPyHxXI/)
+
+**Virtual educational toolkits to support the participation of medical laboratory professionals in interprofessional collaboration within a Patients’ Medical Home model of care** _(2023 - 2024)_<br>
+_Role:_ Lead the development of the virtual toolkits.<br>
+_Description:_ Part of a broader national project called "Team: Primary Care," funded by the Canadian federal government, this project developed two interprofessional educational toolkits that are cognizant of the challenges faced by medical laboratory technnologists (MLTs), and provide them the opportunity to acquire the knowledge, skills, and attitudes necessary to participate in interprofessional collaboration, an approach central to Patients' Medical Home (PMH) models of care.
+  - Website: [Team Primary Care](https://www.teamprimarycare.ca)
+
+**Micro-credential badges: Virtual interprofessional education for Medical Laboratory learners** _(2022 - 2023)_<br>
+_Role:_ Member of the advisory board and co-supervising students developing content.<br>
+_Description:_ The purpose of this micro-credential program is to introduce Medical Laboratory (ML) technologists and technicians to the interprofessional competencies that are foundational for interprofessional collaborative practice.
+  - Website: [Micro-credential badges: Virtual interprofessional education for Medical Laboratory (ML) learners](https://mlt.community/projects/microcredentials/)
+
+**Development of Micro-credentials in Dementia Care to Support Capacity Building in Long-Term Care using a GEM-TECH (Gamified Educational Multimodal Technology Platform)** _(2022-2023)_<br>
+_Role:_ Member of the advisory board and co-supervising students developing content.<br>
+_Description:_ The purpose of this micro-credential program is to provide modular and interactive training on providing proper support to patients with dementia in long-term care.
+
+**Palliative care in Long-term Care: A Virtual Serious Game** _(2022-2023)_<br>
+_Role:_ Lead developer in the creation of the VSG.<br>
+_Description:_ Project funded by eCampusOntario, with members from York University, Ontario Tech University, Durham College, and Nipissing University, that developed an open-access virtual serious game (VSG) to teach undergraduate nursing students about palliative care geared for the elderly at end-of-life in long-term care.<br>
+  - eCampus Ontario Library: [Palliative Care in Long-term Care : A Virtual Serious Game](https://openlibrary.ecampusontario.ca/item-details/#/a45623dc-b7ed-403d-a4de-f1c50e1173aa)
+
+**Development, Implementation and Evaluation of Digital Experiential Learning Modules that Incorporate Simulation do Address Discriminating Attitudes** _(2021-2022)_<br>
+_Role:_ Developer of technology components and guided the activity of other students.<br>
+_Description:_ Project funded by eCampusOntario, with members from Ontario Tech University and Durham College, that developed, implemented and evaluated three digital experiential learning modules about stigma related to dementia, ageism, and Indigenous People.<br>
+  - eCampus Ontario Library: [Dementia](https://openlibrary.ecampusontario.ca/item-details/#/4a34fc2b-a522-47ee-a8c7-6415473ac5d5)
+  - eCampus Ontario Library: [Ageism](https://openlibrary.ecampusontario.ca/item-details/#/4870b5d0-3173-4b83-9c14-f634460d4fc2)
+  - eCampus Ontario Library: [Trauma Informed Practice for Indigenous Peoples](https://openlibrary.ecampusontario.ca/item-details/#/5f8e1b1c-79a4-4b75-9f79-4d45e8d2e705)
+
+**International Educated Nurse-Centered Virtual Serious Game** _(2021-2022)_<br>
+_Role:_ Lead developer in the creation of the Virtual Serious Game (VSG).<br>
+_Description:_ Project funded by eCampusOntario, with members from York University, Ontario Tech University, Durham College, and Nipissing University, that developed an open-access virtual serious game (VSG) to teach entry to practice nursing competencies to internationally educated nurses.<br>
+  - eCampus Ontario Library: [International Educated Nurse-Centered Virtual Serious Game](https://openlibrary.ecampusontario.ca/item-details/#/ad07420d-eef1-4fc7-8139-957d374ae96e)
+
 **Using an innovative tool to teach and test cultural competencies to enhance age‐friendly communities** _(2020 - 2022)_<br>
-A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University. Researcher and developer of the technology components.
+_Role:_ Researcher and developer of the technology components.<br>
+_Description:_ A collaboration between TeachingCity Oshawa, Oshawa Senior Community Centres (OSCC55+), the City of Oshawa, and Ontario Tech University.<br>
   - News article: [TeachingCity Oshawa highlights year five of innovative partnership.](https://www.oshawa.ca/en/news/teachingcity-oshawa-highlights-year-five-of-innovative-partnership.aspx) 22 Sep, 2022
   - News article: [A videogame that aims to enlighten.](https://chronicle.durhamcollege.ca/2021/03/a-videogame-that-aims-to-enlighten/) 12 Mar, 2021
+
+**Person-Centered Serious Games for Mental Health Education** _(2020 - 2021)_<br>
+_Role:_ Researcher and lead developer creating the 3D assets, a dialogue editor and player.<br>
+_Description:_ Interdisciplinary project in partnership with members of the Health Science department from York University, funded by an SSHRC grant.<br>
+  - News article: [York collaborates on development of virtual educational tool for nursing students.](https://yfile.news.yorku.ca/2020/08/30/york-collaborates-on-development-of-virtual-educational-tool-for-nursing-students/) 30 Aug, 2020
 
 **SmartGreen: An Internet-of-Things Framework for Intelligent Agriculture** _(2016 - 2019)_<br>
 Researcher and developer of software and hardware. Worked in implementing data fusion algorithms in a sensor network based on low-end hardware.
 
+**Student interactions on virtual forums: identifying facilitating elements in learning processes** _(2015-2018)_<br>
+Researcher responsible for implementing different virtual forums, provide support for defining data collection parameters, and test eye tracking platform.
+
+**Virtual Train: Immersive Education of Physics Concepts for High School Students** _(2017)_
+Co-led the research and development of a virtual reality headset-based simulation of a train to teach high school students physics concepts.
+
 **Virtual Shooting Training System** _(2010 - 2011)_<br>
 Director of 3D environments and models.
 
-**Use of Mediatic Languages in Distance Learning Courses** _(2007 - 2009)_<br>
+**Usage of Mediatic Languages in Distance Learning Courses** _(2007 - 2009)_<br>
 Researcher of new technologies to improve distance learning.
 
