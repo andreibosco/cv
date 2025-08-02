@@ -270,11 +270,15 @@ K. Wilcocks, **A. Torres**, A. Uribe-Quevedo, B. Kapralos, S. Hunt, K. Slade, an
 
 ### Refereed Abstracts and Posters
 
-Z. Hosseini, **A. Torres**, D. Smeeton, B. Gamble, B. Kapralos, and A. Dubrowski, "Virtual Simulation is More Effective than Didactic Lectures in Preparing Medical Laboratory Students for Simulation-Based Microtomy Training: Pilot Randomized Control Trial," _2024 SIM Expo_, Banff, Alberta, Canada, Nov 25-26, 2024. [to be presented]
+C. Craven, **A. Torres**, B. Kapralos, D. Chandross, and A. Dubrowski, "The Development of a No-Code VR Authoring Platform for Post-Secondary Educators," _2025 XR Salento_, Otranto, Italy, Jun 17-20, 2025.
 
-**A. Torres**, M. Chiu, C. Craven, B. Kapralos, A. Dubrowski, M. Smith, and A. Burhan, "Building a Virtual Reality Platform for Dementia Caregivers Simulation-Based Skills-Training: A Technology Developer’s Perspective on Lessons Learned," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024. [to be presented]
+**A. Torres**, S. Abdo, B. Kapralos, V. Bhat, and A. Dubrowski, "From Gamification to Virtual Reality: The Evolution of the Gamified Educational Networking Learning Management System through Design-Based Research in Simulation-Based Education," _2025 XR Salento_, Otranto, Italy, Jun 17-20, 2025.
 
-R. Al-bayati, K. Clarke, M. Chiu, **A. Torres**, A. Dubrowski, B. Kapralos, M. Smith, and A. Burhan, "Empowering Dementia Caregivers with a Virtual Reality (VR) Simulation-Based Skills-Building Platform 'VR-SIM Carers' - Knowledge Users’ Perspectives," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024. [to be presented]
+Z. Hosseini, **A. Torres**, D. Smeeton, B. Gamble, B. Kapralos, and A. Dubrowski, "Virtual Simulation is More Effective than Didactic Lectures in Preparing Medical Laboratory Students for Simulation-Based Microtomy Training: Pilot Randomized Control Trial," _2024 SIM Expo_, Banff, Alberta, Canada, Nov 25-26, 2024.
+
+**A. Torres**, M. Chiu, C. Craven, B. Kapralos, A. Dubrowski, M. Smith, and A. Burhan, "Building a Virtual Reality Platform for Dementia Caregivers Simulation-Based Skills-Training: A Technology Developer’s Perspective on Lessons Learned," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024.
+
+R. Al-bayati, K. Clarke, M. Chiu, **A. Torres**, A. Dubrowski, B. Kapralos, M. Smith, and A. Burhan, "Empowering Dementia Caregivers with a Virtual Reality (VR) Simulation-Based Skills-Building Platform 'VR-SIM Carers' - Knowledge Users’ Perspectives," _2024 AGE-WELL Annual Conference_, Edmonton, Alberta, Canada, Oct 23-24, 2024.
 
 W. Sun, J. Calver, **A. Torres**, L. Martignetti, M. Lemonde and A. Dubrowski, "Using Micro-credential to Educate Long-Term Care Staff to Provide Palliative Care for People with Dementia: A Gamified Educational Network (GEN)," _2024 IEEE 8th International Conference on Serious Games and Applications for Health (SeGAH)_, Funchal, Portugal, Aug 7-9, 2024.
 
