@@ -62,9 +62,9 @@ Couses:
 Courses:
   - Modelling & Animation System II
   - Computer Architecture
-  - Game Design Workshop II
   - Cinematic Systems Design
-  - Game Design Workshop III
+  - Game Development Workshop II
+  - Game Development Workshop III
   - Industrial Design for Game Hardware
   
 **Assistant Professor** @ [Federal University of Ceará (UFC)](https://www.ufc.br/) <br>
