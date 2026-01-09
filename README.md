@@ -8,7 +8,13 @@ _PhD in Computer Science / Researcher / Full-stack Developer / (Former) Professo
 
 ## 👷‍♂️ Professional Experience
 
-**VR Technology Developer - Mitacs Accelerate Fellowship** @ [Ontario Shores Centre for Mental Health Sciences](http://vrsimcarers.ca) _(Mar 2024 - current)_ <br>
+**Assistant Professor** @ [Algoma University](https://www.algomau.ca/) _(Jan 2026 - Current)_ <br>
+Assistant Professor in the Faculty of Computer Sciences & Technology, Department of Information Technology and Professional Studies, at Algoma University. My research focuses on Extended Reality (XR), serious games, and experiential learning, with an emphasis on applied and interdisciplinary contexts.
+
+**Research Associate** @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2025 - Dec 2025)_ <br>
+Continuing to support the development of the VR-SIM Carers project, including the development of 3D characters, animation, and virtual reality scenarios in Unreal Engine, and also the integration of the scenarios with a learning management system (LMS).
+
+**VR Technology Developer - Mitacs Accelerate Fellowship** @ [Ontario Shores Centre for Mental Health Sciences](http://vrsimcarers.ca) _(Mar 2024 - Mar 2025)_ <br>
 Conducting activities in the VR-SIM Carers project involving the development of 3D characters and animations, supporting the development of virtual reality scenarios in Unreal Engine, and exploring technologies to enhance the development flow, deployment and user experience.
 
 **Research Associate**  @ [OntarioTech University](https://www.ontariotechu.ca/) _(Apr 2023 - Mar 2024)_ <br>
@@ -54,8 +60,13 @@ Assisted in the design of commercial architecture projects and created 3D render
 <br>
 ## 👨‍🏫 Academic Experience
 
+**Assistant Professor** @ [Algoma University](https://www.algomau.ca) <br>
+Courses:
+  - Mobile Tech: Design and Use
+  - Web Data Management
+
 **Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca) <br>
-Couses:
+Courses:
   - Game Development Fundamentals
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) <br>
