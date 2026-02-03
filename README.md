@@ -331,6 +331,10 @@ N. Guérard-Poirier, M. Beniey, L. Méloche-Dumas, **A. Torres**, M. Dhane, B. M
 
 ### Talks and Presentations
 
+**The role of virtual reality in facilitating caregiver response to apathy in people living with dementia** @ Symposium: Apathy in neuropsychiatric disorders: significance, definitions and leading-edge interventions (_Sep. 25, 2025_)<br>
+Hosted by 2025 IPA Congress<br>
+**Andrei Torres** and Mary Chiu
+
 **How to Build Microcredentials** @ 6th New Year; New Ideas - Driving Education through Technology into the Next Era (_Jan. 18, 2023_)<br>
 Hosted by Ontario Tech University and Ontario Shores Centre for Mental Health Sciences<br>
 Dr. Brenda Gamble, Dr. Adam Dubrowski and **Andrei Torres**
