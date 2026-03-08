@@ -185,6 +185,8 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
+M. Chiu, S. Pistritto, K. Kokorelias, C. Clarke, **A. Torres**, C. Craven, A. Dubrowski, B. Kapralos, E. O’Hare, J. Sadavoy, A. Shnall, M. Smith, N. Choudhury, A. Burhan, ["Supporting Unpaid Caregivers of Persons Living With Dementia: Protocol for a Pilot Feasibility Study to Explore Caregiver Outcomes and Impact of a Co-Designed Simulation–Based Psychoeducation Program in Virtual Reality,"](https://doi.org/10.2196/87107) _JMIR Research Protocols_, Mar 2026, vol. 15:e87107, doi: 10.2196/87107
+
 **A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, vol. 17, no. 1, pp. 235-241, Mar. 2025, doi: 10.1109/TG.2024.3360918
 
 S. Meshkat, M. Edalatkhah, C. Di Luciano, J. Martin, G. Kaur, G. H. Lee, H. Park, **A. Torres**, A. Mazalek, B. Kapralos, A. Dubrowski, and V. Bhat, ["Virtual Reality and Stress Management: A Systematic Review,"](https://doi.org/10.7759/cureus.64573) _Cureus_, Jul. 2024, vol. 16(7):e64573, doi: 10.7759/cureus.64573
