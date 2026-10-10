@@ -62,12 +62,14 @@ Assisted in the design of commercial architecture projects and created 3D render
 
 **Assistant Professor** @ [Algoma University](https://www.algomau.ca) <br>
 Courses:
-  - Mobile Tech: Design and Use
-  - Web Data Management
+  - Introduction to Extended Reality Tech (2026F)
+  - Computer Applications II (2026F)
+  - Mobile Tech: Design and Use (2026W, 2026F)
+  - Web Data Management (2026W)
 
 **Professor** @ [Seneca Polytechnic](https://www.senecacollege.ca) <br>
 Courses:
-  - Game Development Fundamentals
+  - Game Development Fundamentals (2023F)
 
 **Teaching Assistant** @ [OntarioTech University](https://www.ontariotechu.ca/) <br>
 Courses:
