@@ -185,6 +185,14 @@ First brazilian portuguese translator. Worked on the initial versions of the gra
 
 ⬦ indicates authors that contributed equally.
 
+S. C. Pistritto, K. M. Clarke, **A. Torres**, M. Chiu, I. Klicnik, C. G. Craven, A. Khanna, N. Choudhury, B. Kapralos, A. M. Burhan, ["An Immersive Virtual Reality Simulation Program for Dementia Caregivers: Technical Report and Evaluation,"][https://doi.org/10.7759/cureus.115934] Technical Report, _Cureus_, Sep. 2026, vol. 18(9): e115934, doi: 10.7759/cureus.115934
+    
+K. Parkington, M. Rouleau-Tang, A. Bhat, J. Martin, A. Rueda, B. G. Teferra, Y. Liu, M. Ivanov, B. C. Darnell, L. Beavers, D. M. Campbell, **A. Torres**, W. Lou, A. Nazarov, A. R. Ashbaugh, B. Litz, R. Jetly, G. Strudwick, A. Dubrowski, B. Kapralos, S. Krishnan, V. Bhat. ["Working Under Pressure: How Virtual Reality and Psychoeducation Shape Stress and Moral Distress Responses in Nurses,"][https://doi.org/10.1177/20552076261484009] _Digital Health_, Aug. 2026, vol. 12, doi: 10.1177/20552076261484009
+
+A. Rueda, H. F. Al-Shamali, Z. Cote, N. Roy, R. Janssen-Aguilar, B. G. Teferra, M. A. Kamaleddin, L. Burback, O. Winkler, B. Kapralos, **A. Torres**, D. Sharma, S. Krishnan, G. Dumas, A. Greenshaw, A. Hudon, S. Sockalingam, Y. Zhang, A. Dubrowski, V. Bhat, ["Enhancing Psychiatry Training Using an Agentic AI Simulated Consultation Tool: Prospective Cohort Study,"][https://doi.org/10.2196/88580] _JMIR Medical Education_, Jul. 2026, vol. 12:e88580, doi: 10.2196/88580
+
+A. Rueda, J. Martin, K. Parkington, A. Perivolaris, B. G. Teferra, G. H. Lee, V. Tassone, V. Lin, M. Ivanov, B. C. Darnell, L. Beavers, D. Campbell, **A. Torres**, W. Lou, A. Nazarov, A. Ashbaugh, B. Kapralos, B. T. Litz, R. Jetly, A. Dubrowski, G. Strudwick, S. Krishnan, V. Bhat, ["Digital Health Monitoring and Intervention Suite for Stress in Frontline Nurses: Prospective Cohort Trial",][https://doi.org/10.2196/77818] _JMIR Formative Research_, Jun. 2026, vol. 10:e77818, doi:10.2196/77818
+
 M. Chiu, S. Pistritto, K. Kokorelias, C. Clarke, **A. Torres**, C. Craven, A. Dubrowski, B. Kapralos, E. O’Hare, J. Sadavoy, A. Shnall, M. Smith, N. Choudhury, A. Burhan, ["Supporting Unpaid Caregivers of Persons Living With Dementia: Protocol for a Pilot Feasibility Study to Explore Caregiver Outcomes and Impact of a Co-Designed Simulation–Based Psychoeducation Program in Virtual Reality,"](https://doi.org/10.2196/87107) _JMIR Research Protocols_, Mar 2026, vol. 15:e87107, doi: 10.2196/87107
 
 **A. Torres**, B. Kapralos and A. Dubrowski, ["Examining the Usability of the Moirai Serious Game Authoring Platform,"](https://doi.org/10.1109/TG.2024.3360918) in _IEEE Transactions on Games_, vol. 17, no. 1, pp. 235-241, Mar. 2025, doi: 10.1109/TG.2024.3360918
@@ -276,6 +284,8 @@ W. W. F. Sarmento, C. L. Harriman, K. F. Rabelo, and **A. Torres**, ["Avaliaçã
 <br>
 
 ### Refereed Conference and Workshop Proceedings (Extended Abstracts)
+J. Varghese, M. Minhajuddin, H. Adedeji, **A. Torres**, C. Lemieux, and S. Nam, ["Single-Arm Locomotion for Multitasking Virtual Reality,"][https://doi.org/10.1145/3822518.3839298] In: _Proceedings of the 2026 ACM Symposium on Spatial User Interaction_, Bari, Italy, Oct 10-11, 2026, doi: 10.1145/3822518.3839298
+
 P. Mutombo, **A. Torres**, B. Kapralos, B. Gamble, C. Adams, L. Lawson, A. Dubrowski and C. da Silva, ["An Innovative Virtual Learning Environment to Enhance Age-Friendly Cultural Competencies,"](https://ieeexplore.ieee.org/document/9529828) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00195
 
 C. da Silva, **A. Torres**, B. Karalos, E. Peisachovich, A. Dubrowski, V. Baltazar, B. Qureshi and N. Caraballo, ["Person-centered Virtual Serious Games: Mental Health Education,"](https://ieeexplore.ieee.org/document/9529908) _COMPSAC 2021: Intelligent and Resilient Computing for a Collaborative World_, Jul. 12-16, 2021, doi: 10.1109/COMPSAC51774.2021.00196
